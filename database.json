@@ -1,1465 +1,1490 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "Daniel Myers",
-            "email": "danielmyers@sexyinthecity.com",
-            "staff": true
-        },
-        {
-            "id": 2,
-            "name": "Lance Buckley",
-            "email": "lancebuckley@dungeonsanddragons.com",
-            "staff": true
-        },
-        {
-            "id": 3,
-            "name": "Chesney Hardin",
-            "email": "chesneyhardin@spillingthetea.com",
-            "staff": true
-        },
-        {
-            "id": 4,
-            "name": "Belle Hollander",
-            "email": "bellehollander@newgirl.com",
-            "staff": true
-        },
-        {
-            "id": 5,
-            "name": "Cassie Revell",
-            "email": "cassierevell@catz4dayz.com",
-            "staff": true
-        },
-        {
-            "id": 6,
-            "name": "Ella Wilson",
-            "email": "ellawilson@gmail.com",
-            "staff": false
-        },
-        {
-            "id": 7,
-            "name": "Noah Clark",
-            "email": "noahclark@yahoo.com",
-            "staff": false
-        },
-        {
-            "id": 8,
-            "name": "Mia Mitchell",
-            "email": "miamitchell@aol.com",
-            "staff": false
-        },
-        {
-            "id": 9,
-            "name": "Aiden Adams",
-            "email": "aidenadams@outlook.com",
-            "staff": false
-        },
-        {
-            "id": 10,
-            "name": "Isabella Turner",
-            "email": "isabellaturner@icloud.com",
-            "staff": false
-        },
-        {
-            "id": 11,
-            "name": "Lucas Evans",
-            "email": "lucasevans@gmail.com",
-            "staff": false
-        },
-        {
-            "id": 12,
-            "name": "Ava Rodriguez",
-            "email": "avarodriguez@yahoo.com",
-            "staff": false
-        },
-        {
-            "id": 13,
-            "name": "Caden Foster",
-            "email": "cadenfoster@aol.com",
-            "staff": false
-        },
-        {
-            "id": 14,
-            "name": "Harper Bell",
-            "email": "harperbell@outlook.com",
-            "staff": false
-        },
-        {
-            "id": 15,
-            "name": "Jack Hughes",
-            "email": "jackhughes@icloud.com",
-            "staff": false
-        },
-        {
-            "id": 16,
-            "name": "Charlotte Kelly",
-            "email": "charlottekelly@gmail.com",
-            "staff": false
-        },
-        {
-            "id": 17,
-            "name": "Leo Cooper",
-            "email": "leocooper@yahoo.com",
-            "staff": false
-        },
-        {
-            "id": 18,
-            "name": "Luna Price",
-            "email": "lunaprice@aol.com",
-            "staff": false
-        },
-        {
-            "id": 19,
-            "name": "Mason Wood",
-            "email": "masonwood@outlook.com",
-            "staff": false
-        },
-        {
-            "id": 20,
-            "name": "Amelia Brooks",
-            "email": "ameliabrooks@icloud.com",
-            "staff": false
-        },
-        {
-            "id": 21,
-            "name": "Ethan Russell",
-            "email": "ethanrussell@gmail.com",
-            "staff": false
-        },
-        {
-            "id": 22,
-            "name": "Aria Long",
-            "email": "arialong@yahoo.com",
-            "staff": false
-        },
-        {
-            "id": 23,
-            "name": "Logan Lee",
-            "email": "loganlee@aol.com",
-            "staff": false
-        },
-        {
-            "id": 24,
-            "name": "Grace Morris",
-            "email": "gracemorris@outlook.com",
-            "staff": false
-        },
-        {
-            "id": 25,
-            "name": "Jackson Wright",
-            "email": "jacksonwright@icloud.com",
-            "staff": false
-        }
-    ],
-    "advisors": [
-        {
-            "id": 1,
-            "userId": 1,
-            "startDate": "01/01/2013",
-            "payRate": 60,
-            "officeAddress": "66 Perry Street, Manhattan",
-            "officePhone": "123.555.4357"
-        },
-        {
-            "userId": 2,
-            "startDate": "2015-10-30",
-            "payRate": 47.25,
-            "officeAddress": "1001 Fannin St, Houston, TX 77002",
-            "officePhone": "555.234.5678"
-        },
-        {
-            "userId": 3,
-            "startDate": "2016-05-18",
-            "payRate": 51.35,
-            "officeAddress": "151 W 34th St, New York, NY 10001",
-            "officePhone": "555.345.6789"
-        },
-        {
-            "userId": 4,
-            "startDate": "2018-02-05",
-            "payRate": 45.80,
-            "officeAddress": "1600 Amphitheatre Pkwy, Mountain View, CA 94043",
-            "officePhone": "555.456.7890"
-        },
-        {
-            "userId": 5,
-            "startDate": "2017-09-21",
-            "payRate": 57.90,
-            "officeAddress": "1050 Caribbean Way, Miami, FL 33132",
-            "officePhone": "555.567.8901"
-        }
-    ],
-    "customers": [
-        {
-            "id": 1,
-            "userId": 6,
-            "address": "123 Main St, Los Angeles, CA 90001",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1985-03-10",
-            "beneficiary": "Spouse"
-        },
-        {
-            "id": 2,
-            "userId": 7,
-            "address": "456 Park Ave, New York, NY 10022",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1972-08-15",
-            "beneficiary": "Son"
-        },
-        {
-            "id": 3,
-            "userId": 8,
-            "address": "789 Stadium Dr, Chicago, IL 60605",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1988-06-25",
-            "beneficiary": "Spouse"
-        },
-        {
-            "id": 4,
-            "userId": 9,
-            "address": "321 Court St, Boston, MA 02108",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1965-12-03",
-            "beneficiary": "Brother"
-        },
-        {
-            "id": 5,
-            "userId": 10,
-            "address": "654 Arena Ave, Dallas, TX 75202",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1978-09-21",
-            "beneficiary": "Spouse"
-        },
-        {
-            "id": 6,
-            "userId": 11,
-            "address": "987 Field St, San Francisco, CA 94107",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1982-07-14",
-            "beneficiary": "Daughter"
-        },
-        {
-            "id": 7,
-            "userId": 12,
-            "address": "321 Court St, Boston, MA 02108",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1971-04-27",
-            "beneficiary": "Spouse"
-        },
-        {
-            "id": 8,
-            "userId": 13,
-            "address": "789 Stadium Dr, Chicago, IL 60605",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1964-11-09",
-            "beneficiary": "Son"
-        },
-        {
-            "id": 9,
-            "userId": 14,
-            "address": "123 Main St, Los Angeles, CA 90001",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1986-01-05",
-            "beneficiary": "Spouse"
-        },
-        {
-            "id": 10,
-            "userId": 15,
-            "address": "456 Park Ave, New York, NY 10022",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1973-10-18",
-            "beneficiary": "Spouse"
-        },
-        {
-            "id": 11,
-            "userId": 16,
-            "address": "789 Stadium Dr, Chicago, IL 60605",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1989-12-01",
-            "beneficiary": "Brother"
-        },
-        {
-            "id": 12,
-            "userId": 17,
-            "address": "321 Court St, Boston, MA 02108",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1967-03-25",
-            "beneficiary": "Spouse"
-        },
-        {
-            "id": 13,
-            "userId": 18,
-            "address": "654 Arena Ave, Dallas, TX 75202",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1979-06-10",
-            "beneficiary": "Daughter"
-        },
-        {
-            "id": 14,
-            "userId": 19,
-            "address": "987 Field St, San Francisco, CA 94107",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1983-09-05",
-            "beneficiary": "Spouse"
-        },
-        {
-            "id": 15,
-            "userId": 20,
-            "address": "123 Main St, Los Angeles, CA 90001",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1970-05-23",
-            "beneficiary": "Son"
-        },
-        {
-            "id": 16,
-            "userId": 21,
-            "address": "456 Park Ave, New York, NY 10022",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1977-08-17",
-            "beneficiary": "Spouse"
-        },
-        {
-            "id": 17,
-            "userId": 22,
-            "address": "789 Stadium Dr, Chicago, IL 60605",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1963-11-30",
-            "beneficiary": "Son"
-        },
-        {
-            "id": 18,
-            "userId": 23,
-            "address": "321 Court St, Boston, MA 02108",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1987-02-12",
-            "beneficiary": "Spouse"
-        },
-        {
-            "id": 19,
-            "userId": 24,
-            "address": "654 Arena Ave, Dallas, TX 75202",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1974-06-28",
-            "beneficiary": "Daughter"
-        },
-        {
-            "id": 20,
-            "userId": 25,
-            "address": "987 Field St, San Francisco, CA 94107",
-            "phoneNumber": "123.555.5234",
-            "dateOfBirth": "1980-09-14",
-            "beneficiary": "Spouse"
-        }
-    ],
-    "products": [
-        {
-            "id": 1,
-            "productTypeId": 1,
-            "price": 235,
-            "billingFrequency": "quarterly"
-        },
-        {
-            "id": 2,
-            "productTypeId": 2,
-            "price": 125,
-            "billingFrequency": "semi-annually"
-        },
-        {
-            "id": 3,
-            "productTypeId": 3,
-            "price": 385,
-            "billingFrequency": "monthly"
-        },
-        {
-            "id": 4,
-            "productTypeId": 4,
-            "price": 415,
-            "billingFrequency": "yearly"
-        },
-        {
-            "id": 5,
-            "productTypeId": 5,
-            "price": 300,
-            "billingFrequency": "quarterly"
-        },
-        {
-            "id": 6,
-            "productTypeId": 6,
-            "price": 80,
-            "billingFrequency": "monthly"
-        },
-        {
-            "id": 7,
-            "productTypeId": 7,
-            "price": 490,
-            "billingFrequency": "semi-annually"
-        },
-        {
-            "id": 8,
-            "productTypeId": 8,
-            "price": 160,
-            "billingFrequency": "yearly"
-        },
-        {
-            "id": 9,
-            "productTypeId": 9,
-            "price": 175,
-            "billingFrequency": "monthly"
-        },
-        {
-            "id": 10,
-            "productTypeId": 1,
-            "price": 275,
-            "billingFrequency": "quarterly"
-        },
-        {
-            "id": 11,
-            "productTypeId": 2,
-            "price": 450,
-            "billingFrequency": "semi-annually"
-        },
-        {
-            "id": 12,
-            "productTypeId": 3,
-            "price": 120,
-            "billingFrequency": "monthly"
-        },
-        {
-            "id": 13,
-            "productTypeId": 4,
-            "price": 390,
-            "billingFrequency": "yearly"
-        },
-        {
-            "id": 14,
-            "productTypeId": 5,
-            "price": 275,
-            "billingFrequency": "quarterly"
-        },
-        {
-            "id": 15,
-            "productTypeId": 6,
-            "price": 85,
-            "billingFrequency": "monthly"
-        },
-        {
-            "id": 16,
-            "productTypeId": 7,
-            "price": 495,
-            "billingFrequency": "semi-annually"
-        },
-        {
-            "id": 17,
-            "productTypeId": 8,
-            "price": 175,
-            "billingFrequency": "yearly"
-        },
-        {
-            "id": 18,
-            "productTypeId": 9,
-            "price": 165,
-            "billingFrequency": "monthly"
-        },
-        {
-            "id": 19,
-            "productTypeId": 1,
-            "price": 255,
-            "billingFrequency": "quarterly"
-        },
-        {
-            "id": 20,
-            "productTypeId": 2,
-            "price": 135,
-            "billingFrequency": "semi-annually"
-        },
-        {
-            "id": 21,
-            "productTypeId": 3,
-            "price": 365,
-            "billingFrequency": "monthly"
-        },
-        {
-            "id": 22,
-            "productTypeId": 4,
-            "price": 465,
-            "billingFrequency": "yearly"
-        },
-        {
-            "id": 23,
-            "productTypeId": 5,
-            "price": 320,
-            "billingFrequency": "quarterly"
-        },
-        {
-            "id": 24,
-            "productTypeId": 6,
-            "price": 90,
-            "billingFrequency": "monthly"
-        },
-        {
-            "id": 25,
-            "productTypeId": 7,
-            "price": 510,
-            "billingFrequency": "semi-annually"
-        },
-        {
-            "id": 26,
-            "productTypeId": 8,
-            "price": 150,
-            "billingFrequency": "yearly"
-        },
-        {
-            "id": 27,
-            "productTypeId": 9,
-            "price": 185,
-            "billingFrequency": "monthly"
-        },
-        {
-            "id": 28,
-            "productTypeId": 1,
-            "price": 295,
-            "billingFrequency": "quarterly"
-        },
-        {
-            "id": 29,
-            "productTypeId": 2,
-            "price": 175,
-            "billingFrequency": "semi-annually"
-        },
-        {
-            "id": 30,
-            "productTypeId": 3,
-            "price": 340,
-            "billingFrequency": "monthly"
-        },
-        {
-            "id": 31,
-            "productTypeId": 4,
-            "price": 325,
-            "billingFrequency": "yearly"
-        },
-        {
-            "id": 32,
-            "productTypeId": 5,
-            "price": 285,
-            "billingFrequency": "quarterly"
-        },
-        {
-            "id": 33,
-            "productTypeId": 6,
-            "price": 75,
-            "billingFrequency": "monthly"
-        },
-        {
-            "id": 34,
-            "productTypeId": 7,
-            "price": 470,
-            "billingFrequency": "semi-annually"
-        },
-        {
-            "id": 35,
-            "productTypeId": 8,
-            "price": 145,
-            "billingFrequency": "yearly"
-        },
-        {
-            "id": 36,
-            "productTypeId": 9,
-            "price": 165,
-            "billingFrequency": "monthly"
-        },
-        {
-            "id": 37,
-            "productTypeId": 1,
-            "price": 215,
-            "billingFrequency": "quarterly"
-        },
-        {
-            "id": 38,
-            "productTypeId": 2,
-            "price": 155,
-            "billingFrequency": "semi-annually"
-        },
-        {
-            "id": 39,
-            "productTypeId": 3,
-            "price": 405,
-            "billingFrequency": "monthly"
-        },
-        {
-            "id": 40,
-            "productTypeId": 4,
-            "price": 200,
-            "billingFrequency": "yearly"
-        },
-        {
-            "id": 41,
-            "productTypeId": 5,
-            "price": 275,
-            "billingFrequency": "quarterly"
-        },
-        {
-            "id": 42,
-            "productTypeId": 6,
-            "price": 95,
-            "billingFrequency": "monthly"
-        },
-        {
-            "id": 43,
-            "productTypeId": 7,
-            "price": 520,
-            "billingFrequency": "semi-annually"
-        },
-        {
-            "id": 44,
-            "productTypeId": 8,
-            "price": 140,
-            "billingFrequency": "yearly"
-        },
-        {
-            "id": 45,
-            "productTypeId": 9,
-            "price": 175,
-            "billingFrequency": "monthly"
-        }
-    ],
-    "productTypes": [
-        {
-            "id": 1,
-            "category": "life insurance"
-        },
-        {
-            "id": 2,
-            "category": "automotive insurance"
-        },
-        {
-            "id": 3,
-            "category": "homeowners insurance"
-        },
-        {
-            "id": 4,
-            "category": "retirement accounts"
-        },
-        {
-            "id": 5,
-            "category": "stocks"
-        },
-        {
-            "id": 6,
-            "category": "money market"
-        },
-        {
-            "id": 7,
-            "category": "education savings plans"
-        },
-        {
-            "id": 8,
-            "category": "annuities"
-        },
-        {
-            "id": 9,
-            "category": "mutual funds"
-        }
-    ],
-    "policies": [
-        {
-            "id": 1,
-            "customerId": 1,
-            "advisorId": 2,
-            "productId": 22,
-            "startDate": "03/15/2022",
-            "term": "term"
-        },
-        {
-            "id": 2,
-            "customerId": 2,
-            "advisorId": 4,
-            "productId": 10,
-            "startDate": "07/22/2021",
-            "term": "indefinite"
-        },
-        {
-            "id": 3,
-            "customerId": 3,
-            "advisorId": 1,
-            "productId": 38,
-            "startDate": "01/08/2023",
-            "term": "term"
-        },
-        {
-            "id": 4,
-            "customerId": 4,
-            "advisorId": 3,
-            "productId": 19,
-            "startDate": "06/30/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 5,
-            "customerId": 5,
-            "advisorId": 5,
-            "productId": 11,
-            "startDate": "05/19/2023",
-            "term": "term"
-        },
-        {
-            "id": 6,
-            "customerId": 6,
-            "advisorId": 2,
-            "productId": 5,
-            "startDate": "09/12/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 7,
-            "customerId": 7,
-            "advisorId": 4,
-            "productId": 28,
-            "startDate": "11/03/2021",
-            "term": "term"
-        },
-        {
-            "id": 8,
-            "customerId": 8,
-            "advisorId": 1,
-            "productId": 14,
-            "startDate": "02/25/2023",
-            "term": "indefinite"
-        },
-        {
-            "id": 9,
-            "customerId": 9,
-            "advisorId": 3,
-            "productId": 34,
-            "startDate": "07/18/2022",
-            "term": "term"
-        },
-        {
-            "id": 10,
-            "customerId": 10,
-            "advisorId": 5,
-            "productId": 26,
-            "startDate": "04/07/2023",
-            "term": "indefinite"
-        },
-        {
-            "id": 11,
-            "customerId": 11,
-            "advisorId": 2,
-            "productId": 42,
-            "startDate": "10/25/2022",
-            "term": "term"
-        },
-        {
-            "id": 12,
-            "customerId": 12,
-            "advisorId": 4,
-            "productId": 17,
-            "startDate": "01/12/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 13,
-            "customerId": 13,
-            "advisorId": 1,
-            "productId": 6,
-            "startDate": "06/01/2023",
-            "term": "term"
-        },
-        {
-            "id": 14,
-            "customerId": 14,
-            "advisorId": 3,
-            "productId": 30,
-            "startDate": "08/23/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 15,
-            "customerId": 15,
-            "advisorId": 5,
-            "productId": 21,
-            "startDate": "03/12/2023",
-            "term": "term"
-        },
-        {
-            "id": 16,
-            "customerId": 16,
-            "advisorId": 2,
-            "productId": 9,
-            "startDate": "04/26/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 17,
-            "customerId": 17,
-            "advisorId": 4,
-            "productId": 37,
-            "startDate": "12/15/2022",
-            "term": "term"
-        },
-        {
-            "id": 18,
-            "customerId": 18,
-            "advisorId": 1,
-            "productId": 16,
-            "startDate": "01/29/2023",
-            "term": "indefinite"
-        },
-        {
-            "id": 19,
-            "customerId": 19,
-            "advisorId": 3,
-            "productId": 40,
-            "startDate": "05/10/2022",
-            "term": "term"
-        },
-        {
-            "id": 20,
-            "customerId": 20,
-            "advisorId": 5,
-            "productId": 25,
-            "startDate": "02/17/2023",
-            "term": "indefinite"
-        },
-        {
-            "id": 21,
-            "customerId": 1,
-            "advisorId": 2,
-            "productId": 12,
-            "startDate": "03/03/2023",
-            "term": "term"
-        },
-        {
-            "id": 22,
-            "customerId": 2,
-            "advisorId": 4,
-            "productId": 3,
-            "startDate": "07/10/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 23,
-            "customerId": 3,
-            "advisorId": 1,
-            "productId": 29,
-            "startDate": "10/28/2021",
-            "term": "term"
-        },
-        {
-            "id": 24,
-            "customerId": 4,
-            "advisorId": 3,
-            "productId": 23,
-            "startDate": "04/21/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 25,
-            "customerId": 5,
-            "advisorId": 5,
-            "productId": 44,
-            "startDate": "03/10/2023",
-            "term": "term"
-        },
-        {
-            "id": 26,
-            "customerId": 6,
-            "advisorId": 2,
-            "productId": 1,
-            "startDate": "08/02/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 27,
-            "customerId": 7,
-            "advisorId": 4,
-            "productId": 39,
-            "startDate": "01/25/2022",
-            "term": "term"
-        },
-        {
-            "id": 28,
-            "customerId": 8,
-            "advisorId": 1,
-            "productId": 15,
-            "startDate": "02/07/2023",
-            "term": "indefinite"
-        },
-        {
-            "id": 29,
-            "customerId": 9,
-            "advisorId": 3,
-            "productId": 35,
-            "startDate": "07/01/2022",
-            "term": "term"
-        },
-        {
-            "id": 30,
-            "customerId": 10,
-            "advisorId": 5,
-            "productId": 27,
-            "startDate": "04/19/2023",
-            "term": "indefinite"
-        },
-        {
-            "id": 31,
-            "customerId": 11,
-            "advisorId": 2,
-            "productId": 41,
-            "startDate": "09/06/2022",
-            "term": "term"
-        },
-        {
-            "id": 32,
-            "customerId": 12,
-            "advisorId": 4,
-            "productId": 18,
-            "startDate": "01/22/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 33,
-            "customerId": 13,
-            "advisorId": 1,
-            "productId": 4,
-            "startDate": "05/26/2023",
-            "term": "term"
-        },
-        {
-            "id": 34,
-            "customerId": 14,
-            "advisorId": 3,
-            "productId": 31,
-            "startDate": "08/16/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 35,
-            "customerId": 15,
-            "advisorId": 5,
-            "productId": 20,
-            "startDate": "03/05/2023",
-            "term": "term"
-        },
-        {
-            "id": 36,
-            "customerId": 16,
-            "advisorId": 2,
-            "productId": 8,
-            "startDate": "05/20/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 37,
-            "customerId": 17,
-            "advisorId": 4,
-            "productId": 35,
-            "startDate": "01/12/2023",
-            "term": "term"
-        },
-        {
-            "id": 38,
-            "customerId": 18,
-            "advisorId": 1,
-            "productId": 13,
-            "startDate": "02/25/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 39,
-            "customerId": 19,
-            "advisorId": 3,
-            "productId": 42,
-            "startDate": "09/18/2022",
-            "term": "term"
-        },
-        {
-            "id": 40,
-            "customerId": 20,
-            "advisorId": 5,
-            "productId": 24,
-            "startDate": "05/08/2023",
-            "term": "indefinite"
-        },
-        {
-            "id": 41,
-            "customerId": 1,
-            "advisorId": 2,
-            "productId": 2,
-            "startDate": "11/01/2022",
-            "term": "term"
-        },
-        {
-            "id": 42,
-            "customerId": 2,
-            "advisorId": 4,
-            "productId": 32,
-            "startDate": "04/14/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 43,
-            "customerId": 3,
-            "advisorId": 1,
-            "productId": 43,
-            "startDate": "02/28/2023",
-            "term": "term"
-        },
-        {
-            "id": 44,
-            "customerId": 4,
-            "advisorId": 3,
-            "productId": 36,
-            "startDate": "08/09/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 45,
-            "customerId": 5,
-            "advisorId": 5,
-            "productId": 33,
-            "startDate": "04/28/2023",
-            "term": "term"
-        },
-        {
-            "id": 46,
-            "customerId": 6,
-            "advisorId": 2,
-            "productId": 1,
-            "startDate": "10/22/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 47,
-            "customerId": 7,
-            "advisorId": 4,
-            "productId": 15,
-            "startDate": "12/17/2021",
-            "term": "term"
-        },
-        {
-            "id": 48,
-            "customerId": 8,
-            "advisorId": 1,
-            "productId": 30,
-            "startDate": "03/10/2023",
-            "term": "indefinite"
-        },
-        {
-            "id": 49,
-            "customerId": 9,
-            "advisorId": 3,
-            "productId": 21,
-            "startDate": "07/04/2022",
-            "term": "term"
-        },
-        {
-            "id": 50,
-            "customerId": 10,
-            "advisorId": 5,
-            "productId": 11,
-            "startDate": "04/22/2023",
-            "term": "indefinite"
-        },
-        {
-            "id": 51,
-            "customerId": 11,
-            "advisorId": 2,
-            "productId": 5,
-            "startDate": "11/08/2022",
-            "term": "term"
-        },
-        {
-            "id": 52,
-            "customerId": 12,
-            "advisorId": 4,
-            "productId": 31,
-            "startDate": "04/01/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 53,
-            "customerId": 13,
-            "advisorId": 1,
-            "productId": 10,
-            "startDate": "05/19/2023",
-            "term": "term"
-        },
-        {
-            "id": 54,
-            "customerId": 14,
-            "advisorId": 3,
-            "productId": 29,
-            "startDate": "09/11/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 55,
-            "customerId": 15,
-            "advisorId": 5,
-            "productId": 19,
-            "startDate": "01/03/2023",
-            "term": "term"
-        },
-        {
-            "id": 56,
-            "customerId": 16,
-            "advisorId": 2,
-            "productId": 44,
-            "startDate": "05/27/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 57,
-            "customerId": 17,
-            "advisorId": 4,
-            "productId": 2,
-            "startDate": "03/15/2023",
-            "term": "term"
-        },
-        {
-            "id": 58,
-            "customerId": 18,
-            "advisorId": 1,
-            "productId": 33,
-            "startDate": "07/10/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 59,
-            "customerId": 19,
-            "advisorId": 3,
-            "productId": 12,
-            "startDate": "11/03/2022",
-            "term": "term"
-        },
-        {
-            "id": 60,
-            "customerId": 20,
-            "advisorId": 5,
-            "productId": 40,
-            "startDate": "02/24/2023",
-            "term": "indefinite"
-        },
-        {
-            "id": 61,
-            "customerId": 1,
-            "advisorId": 2,
-            "productId": 38,
-            "startDate": "06/23/2023",
-            "term": "term"
-        },
-        {
-            "id": 62,
-            "customerId": 2,
-            "advisorId": 4,
-            "productId": 23,
-            "startDate": "10/16/2021",
-            "term": "indefinite"
-        },
-        {
-            "id": 63,
-            "customerId": 3,
-            "advisorId": 1,
-            "productId": 7,
-            "startDate": "02/08/2023",
-            "term": "term"
-        },
-        {
-            "id": 64,
-            "customerId": 4,
-            "advisorId": 3,
-            "productId": 27,
-            "startDate": "05/01/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 65,
-            "customerId": 5,
-            "advisorId": 5,
-            "productId": 43,
-            "startDate": "03/17/2023",
-            "term": "term"
-        },
-        {
-            "id": 66,
-            "customerId": 6,
-            "advisorId": 2,
-            "productId": 9,
-            "startDate": "07/12/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 67,
-            "customerId": 7,
-            "advisorId": 4,
-            "productId": 36,
-            "startDate": "11/05/2021",
-            "term": "term"
-        },
-        {
-            "id": 68,
-            "customerId": 8,
-            "advisorId": 1,
-            "productId": 14,
-            "startDate": "01/29/2023",
-            "term": "indefinite"
-        },
-        {
-            "id": 69,
-            "customerId": 9,
-            "advisorId": 3,
-            "productId": 34,
-            "startDate": "06/22/2022",
-            "term": "term"
-        },
-        {
-            "id": 70,
-            "customerId": 10,
-            "advisorId": 5,
-            "productId": 26,
-            "startDate": "04/10/2023",
-            "term": "indefinite"
-        },
-        {
-            "id": 71,
-            "customerId": 11,
-            "advisorId": 2,
-            "productId": 41,
-            "startDate": "09/28/2022",
-            "term": "term"
-        },
-        {
-            "id": 72,
-            "customerId": 12,
-            "advisorId": 4,
-            "productId": 17,
-            "startDate": "01/03/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 73,
-            "customerId": 13,
-            "advisorId": 1,
-            "productId": 6,
-            "startDate": "05/09/2023",
-            "term": "term"
-        },
-        {
-            "id": 74,
-            "customerId": 14,
-            "advisorId": 3,
-            "productId": 30,
-            "startDate": "08/30/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 75,
-            "customerId": 15,
-            "advisorId": 5,
-            "productId": 18,
-            "startDate": "02/22/2023",
-            "term": "term"
-        },
-        {
-            "id": 76,
-            "customerId": 16,
-            "advisorId": 2,
-            "productId": 3,
-            "startDate": "06/26/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 77,
-            "customerId": 17,
-            "advisorId": 4,
-            "productId": 32,
-            "startDate": "01/19/2023",
-            "term": "term"
-        },
-        {
-            "id": 78,
-            "customerId": 18,
-            "advisorId": 1,
-            "productId": 13,
-            "startDate": "03/04/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 79,
-            "customerId": 19,
-            "advisorId": 3,
-            "productId": 42,
-            "startDate": "09/26/2022",
-            "term": "term"
-        },
-        {
-            "id": 80,
-            "customerId": 20,
-            "advisorId": 5,
-            "productId": 25,
-            "startDate": "05/16/2023",
-            "term": "indefinite"
-        },
-        {
-            "id": 81,
-            "customerId": 1,
-            "advisorId": 2,
-            "productId": 2,
-            "startDate": "11/15/2022",
-            "term": "term"
-        },
-        {
-            "id": 82,
-            "customerId": 2,
-            "advisorId": 4,
-            "productId": 33,
-            "startDate": "04/08/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 83,
-            "customerId": 3,
-            "advisorId": 1,
-            "productId": 44,
-            "startDate": "02/12/2023"
-        },
-        {
-            "id": 84,
-            "customerId": 4,
-            "advisorId": 3,
-            "productId": 14,
-            "startDate": "08/13/2022",
-            "term": "term"
-        },
-        {
-            "id": 85,
-            "customerId": 5,
-            "advisorId": 5,
-            "productId": 35,
-            "startDate": "04/06/2023",
-            "term": "indefinite"
-        },
-        {
-            "id": 86,
-            "customerId": 6,
-            "advisorId": 2,
-            "productId": 21,
-            "startDate": "10/29/2022",
-            "term": "term"
-        },
-        {
-            "id": 87,
-            "customerId": 7,
-            "advisorId": 4,
-            "productId": 6,
-            "startDate": "12/24/2021",
-            "term": "indefinite"
-        },
-        {
-            "id": 88,
-            "customerId": 8,
-            "advisorId": 1,
-            "productId": 31,
-            "startDate": "03/19/2023",
-            "term": "term"
-        },
-        {
-            "id": 89,
-            "customerId": 9,
-            "advisorId": 3,
-            "productId": 20,
-            "startDate": "07/15/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 90,
-            "customerId": 10,
-            "advisorId": 5,
-            "productId": 10,
-            "startDate": "04/29/2023",
-            "term": "term"
-        },
-        {
-            "id": 91,
-            "customerId": 11,
-            "advisorId": 2,
-            "productId": 5,
-            "startDate": "11/15/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 92,
-            "customerId": 12,
-            "advisorId": 4,
-            "productId": 28,
-            "startDate": "04/05/2022",
-            "term": "term"
-        },
-        {
-            "id": 93,
-            "customerId": 13,
-            "advisorId": 1,
-            "productId": 10,
-            "startDate": "05/24/2023",
-            "term": "indefinite"
-        },
-        {
-            "id": 94,
-            "customerId": 14,
-            "advisorId": 3,
-            "productId": 22,
-            "startDate": "09/05/2022",
-            "term": "term"
-        },
-        {
-            "id": 95,
-            "customerId": 15,
-            "advisorId": 5,
-            "productId": 19,
-            "startDate": "01/17/2023",
-            "term": "indefinite"
-        },
-        {
-            "id": 96,
-            "customerId": 16,
-            "advisorId": 2,
-            "productId": 45,
-            "startDate": "05/31/2022",
-            "term": "term"
-        },
-        {
-            "id": 97,
-            "customerId": 17,
-            "advisorId": 4,
-            "productId": 1,
-            "startDate": "03/26/2023",
-            "term": "indefinite"
-        },
-        {
-            "id": 98,
-            "customerId": 18,
-            "advisorId": 1,
-            "productId": 30,
-            "startDate": "07/19/2022",
-            "term": "term"
-        },
-        {
-            "id": 99,
-            "customerId": 19,
-            "advisorId": 3,
-            "productId": 18,
-            "startDate": "11/12/2022",
-            "term": "indefinite"
-        },
-        {
-            "id": 100,
-            "customerId": 20,
-            "advisorId": 5,
-            "productId": 42,
-            "startDate": "02/05/2023",
-            "term": "term"
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Daniel",
+      "lastName": "Myers",
+      "email": "danielmyers@sexyinthecity.com",
+      "staff": true
+    },
+    {
+      "id": 2,
+      "firstName": "Lance",
+      "lastName": "Buckley",
+      "email": "lancebuckley@dungeonsanddragons.com",
+      "staff": true
+    },
+    {
+      "id": 3,
+      "firstName": "Chesney",
+      "lastName": "Hardin",
+      "email": "chesneyhardin@spillingthetea.com",
+      "staff": true
+    },
+    {
+      "id": 4,
+      "firstName": "Belle",
+      "lastName": "Hollander",
+      "email": "bellehollander@newgirl.com",
+      "staff": true
+    },
+    {
+      "id": 5,
+      "firstName": "Cassie",
+      "lastName": "Revell",
+      "email": "cassierevell@catz4dayz.com",
+      "staff": true
+    },
+    {
+      "id": 6,
+      "firstName": "Ella",
+      "lastName": "Wilson",
+      "email": "ellawilson@gmail.com",
+      "staff": false
+    },
+    {
+      "id": 7,
+      "firstName": "Noah",
+      "lastName": "Clark",
+      "email": "noahclark@yahoo.com",
+      "staff": false
+    },
+    {
+      "id": 8,
+      "firstName": "Mia",
+      "lastName": "Mitchell",
+      "email": "miamitchell@aol.com",
+      "staff": false
+    },
+    {
+      "id": 9,
+      "firstName": "Aiden",
+      "lastName": "Adams",
+      "email": "aidenadams@outlook.com",
+      "staff": false
+    },
+    {
+      "id": 10,
+      "firstName": "Isabella",
+      "lastName": "Turner",
+      "email": "isabellaturner@icloud.com",
+      "staff": false
+    },
+    {
+      "id": 11,
+      "firstName": "Lucas",
+      "lastName": "Evans",
+      "email": "lucasevans@gmail.com",
+      "staff": false
+    },
+    {
+      "id": 12,
+      "firstName": "Ava",
+      "lastName": "Rodriguez",
+      "email": "avarodriguez@yahoo.com",
+      "staff": false
+    },
+    {
+      "id": 13,
+      "firstName": "Caden",
+      "lastName": "Foster",
+      "email": "cadenfoster@aol.com",
+      "staff": false
+    },
+    {
+      "id": 14,
+      "firstName": "Harper",
+      "lastName": "Bell",
+      "email": "harperbell@outlook.com",
+      "staff": false
+    },
+    {
+      "id": 15,
+      "firstName": "Jack",
+      "lastName": "Hughes",
+      "email": "jackhughes@icloud.com",
+      "staff": false
+    },
+    {
+      "id": 16,
+      "firstName": "Charlotte",
+      "lastName": "Kelly",
+      "email": "charlottekelly@gmail.com",
+      "staff": false
+    },
+    {
+      "id": 17,
+      "firstName": "Leo",
+      "lastName": "Cooper",
+      "email": "leocooper@yahoo.com",
+      "staff": false
+    },
+    {
+      "id": 18,
+      "firstName": "Luna",
+      "lastName": "Price",
+      "email": "lunaprice@aol.com",
+      "staff": false
+    },
+    {
+      "id": 19,
+      "firstName": "Mason",
+      "lastName": "Wood",
+      "email": "masonwood@outlook.com",
+      "staff": false
+    },
+    {
+      "id": 20,
+      "firstName": "Amelia",
+      "lastName": "Brooks",
+      "email": "ameliabrooks@icloud.com",
+      "staff": false
+    },
+    {
+      "id": 21,
+      "firstName": "Ethan",
+      "lastName": "Russell",
+      "email": "ethanrussell@gmail.com",
+      "staff": false
+    },
+    {
+      "id": 22,
+      "firstName": "Aria",
+      "lastName": "Long",
+      "email": "arialong@yahoo.com",
+      "staff": false
+    },
+    {
+      "id": 23,
+      "firstName": "Logan",
+      "lastName": "Lee",
+      "email": "loganlee@aol.com",
+      "staff": false
+    },
+    {
+      "id": 24,
+      "firstName": "Grace",
+      "lastName": "Morris",
+      "email": "gracemorris@outlook.com",
+      "staff": false
+    },
+    {
+      "id": 25,
+      "firstName": "Jackson",
+      "lastName": "Wright",
+      "email": "jacksonwright@icloud.com",
+      "staff": false
+    }
+  ],
+  "advisors": [
+      {
+          "id": 1,
+          "userId": 1,
+          "startDate": "01/01/2013",
+          "payRate": 60,
+          "officeAddress": "66 Perry Street, Manhattan",
+          "officePhone": "123.555.4357"
+      },
+      {
+          "userId": 2,
+          "startDate": "2015-10-30",
+          "payRate": 47.25,
+          "officeAddress": "1001 Fannin St, Houston, TX 77002",
+          "officePhone": "555.234.5678"
+      },
+      {
+          "userId": 3,
+          "startDate": "2016-05-18",
+          "payRate": 51.35,
+          "officeAddress": "151 W 34th St, New York, NY 10001",
+          "officePhone": "555.345.6789"
+      },
+      {
+          "userId": 4,
+          "startDate": "2018-02-05",
+          "payRate": 45.80,
+          "officeAddress": "1600 Amphitheatre Pkwy, Mountain View, CA 94043",
+          "officePhone": "555.456.7890"
+      },
+      {
+          "userId": 5,
+          "startDate": "2017-09-21",
+          "payRate": 57.90,
+          "officeAddress": "1050 Caribbean Way, Miami, FL 33132",
+          "officePhone": "555.567.8901"
+      }
+  ],
+  "customers": [
+      {
+          "id": 1,
+          "userId": 6,
+          "address": "123 Main St, Los Angeles, CA 90001",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1985-03-10",
+          "beneficiary": "Spouse"
+      },
+      {
+          "id": 2,
+          "userId": 7,
+          "address": "456 Park Ave, New York, NY 10022",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1972-08-15",
+          "beneficiary": "Son"
+      },
+      {
+          "id": 3,
+          "userId": 8,
+          "address": "789 Stadium Dr, Chicago, IL 60605",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1988-06-25",
+          "beneficiary": "Spouse"
+      },
+      {
+          "id": 4,
+          "userId": 9,
+          "address": "321 Court St, Boston, MA 02108",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1965-12-03",
+          "beneficiary": "Brother"
+      },
+      {
+          "id": 5,
+          "userId": 10,
+          "address": "654 Arena Ave, Dallas, TX 75202",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1978-09-21",
+          "beneficiary": "Spouse"
+      },
+      {
+          "id": 6,
+          "userId": 11,
+          "address": "987 Field St, San Francisco, CA 94107",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1982-07-14",
+          "beneficiary": "Daughter"
+      },
+      {
+          "id": 7,
+          "userId": 12,
+          "address": "321 Court St, Boston, MA 02108",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1971-04-27",
+          "beneficiary": "Spouse"
+      },
+      {
+          "id": 8,
+          "userId": 13,
+          "address": "789 Stadium Dr, Chicago, IL 60605",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1964-11-09",
+          "beneficiary": "Son"
+      },
+      {
+          "id": 9,
+          "userId": 14,
+          "address": "123 Main St, Los Angeles, CA 90001",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1986-01-05",
+          "beneficiary": "Spouse"
+      },
+      {
+          "id": 10,
+          "userId": 15,
+          "address": "456 Park Ave, New York, NY 10022",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1973-10-18",
+          "beneficiary": "Spouse"
+      },
+      {
+          "id": 11,
+          "userId": 16,
+          "address": "789 Stadium Dr, Chicago, IL 60605",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1989-12-01",
+          "beneficiary": "Brother"
+      },
+      {
+          "id": 12,
+          "userId": 17,
+          "address": "321 Court St, Boston, MA 02108",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1967-03-25",
+          "beneficiary": "Spouse"
+      },
+      {
+          "id": 13,
+          "userId": 18,
+          "address": "654 Arena Ave, Dallas, TX 75202",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1979-06-10",
+          "beneficiary": "Daughter"
+      },
+      {
+          "id": 14,
+          "userId": 19,
+          "address": "987 Field St, San Francisco, CA 94107",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1983-09-05",
+          "beneficiary": "Spouse"
+      },
+      {
+          "id": 15,
+          "userId": 20,
+          "address": "123 Main St, Los Angeles, CA 90001",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1970-05-23",
+          "beneficiary": "Son"
+      },
+      {
+          "id": 16,
+          "userId": 21,
+          "address": "456 Park Ave, New York, NY 10022",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1977-08-17",
+          "beneficiary": "Spouse"
+      },
+      {
+          "id": 17,
+          "userId": 22,
+          "address": "789 Stadium Dr, Chicago, IL 60605",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1963-11-30",
+          "beneficiary": "Son"
+      },
+      {
+          "id": 18,
+          "userId": 23,
+          "address": "321 Court St, Boston, MA 02108",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1987-02-12",
+          "beneficiary": "Spouse"
+      },
+      {
+          "id": 19,
+          "userId": 24,
+          "address": "654 Arena Ave, Dallas, TX 75202",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1974-06-28",
+          "beneficiary": "Daughter"
+      },
+      {
+          "id": 20,
+          "userId": 25,
+          "address": "987 Field St, San Francisco, CA 94107",
+          "phoneNumber": "123.555.5234",
+          "dateOfBirth": "1980-09-14",
+          "beneficiary": "Spouse"
+      }
+  ],
+  "products": [
+      {
+          "id": 1,
+          "productTypeId": 1,
+          "price": 235,
+          "billingFrequency": "quarterly"
+      },
+      {
+          "id": 2,
+          "productTypeId": 2,
+          "price": 125,
+          "billingFrequency": "semi-annually"
+      },
+      {
+          "id": 3,
+          "productTypeId": 3,
+          "price": 385,
+          "billingFrequency": "monthly"
+      },
+      {
+          "id": 4,
+          "productTypeId": 4,
+          "price": 415,
+          "billingFrequency": "yearly"
+      },
+      {
+          "id": 5,
+          "productTypeId": 5,
+          "price": 300,
+          "billingFrequency": "quarterly"
+      },
+      {
+          "id": 6,
+          "productTypeId": 6,
+          "price": 80,
+          "billingFrequency": "monthly"
+      },
+      {
+          "id": 7,
+          "productTypeId": 7,
+          "price": 490,
+          "billingFrequency": "semi-annually"
+      },
+      {
+          "id": 8,
+          "productTypeId": 8,
+          "price": 160,
+          "billingFrequency": "yearly"
+      },
+      {
+          "id": 9,
+          "productTypeId": 9,
+          "price": 175,
+          "billingFrequency": "monthly"
+      },
+      {
+          "id": 10,
+          "productTypeId": 1,
+          "price": 275,
+          "billingFrequency": "quarterly"
+      },
+      {
+          "id": 11,
+          "productTypeId": 2,
+          "price": 450,
+          "billingFrequency": "semi-annually"
+      },
+      {
+          "id": 12,
+          "productTypeId": 3,
+          "price": 120,
+          "billingFrequency": "monthly"
+      },
+      {
+          "id": 13,
+          "productTypeId": 4,
+          "price": 390,
+          "billingFrequency": "yearly"
+      },
+      {
+          "id": 14,
+          "productTypeId": 5,
+          "price": 275,
+          "billingFrequency": "quarterly"
+      },
+      {
+          "id": 15,
+          "productTypeId": 6,
+          "price": 85,
+          "billingFrequency": "monthly"
+      },
+      {
+          "id": 16,
+          "productTypeId": 7,
+          "price": 495,
+          "billingFrequency": "semi-annually"
+      },
+      {
+          "id": 17,
+          "productTypeId": 8,
+          "price": 175,
+          "billingFrequency": "yearly"
+      },
+      {
+          "id": 18,
+          "productTypeId": 9,
+          "price": 165,
+          "billingFrequency": "monthly"
+      },
+      {
+          "id": 19,
+          "productTypeId": 1,
+          "price": 255,
+          "billingFrequency": "quarterly"
+      },
+      {
+          "id": 20,
+          "productTypeId": 2,
+          "price": 135,
+          "billingFrequency": "semi-annually"
+      },
+      {
+          "id": 21,
+          "productTypeId": 3,
+          "price": 365,
+          "billingFrequency": "monthly"
+      },
+      {
+          "id": 22,
+          "productTypeId": 4,
+          "price": 465,
+          "billingFrequency": "yearly"
+      },
+      {
+          "id": 23,
+          "productTypeId": 5,
+          "price": 320,
+          "billingFrequency": "quarterly"
+      },
+      {
+          "id": 24,
+          "productTypeId": 6,
+          "price": 90,
+          "billingFrequency": "monthly"
+      },
+      {
+          "id": 25,
+          "productTypeId": 7,
+          "price": 510,
+          "billingFrequency": "semi-annually"
+      },
+      {
+          "id": 26,
+          "productTypeId": 8,
+          "price": 150,
+          "billingFrequency": "yearly"
+      },
+      {
+          "id": 27,
+          "productTypeId": 9,
+          "price": 185,
+          "billingFrequency": "monthly"
+      },
+      {
+          "id": 28,
+          "productTypeId": 1,
+          "price": 295,
+          "billingFrequency": "quarterly"
+      },
+      {
+          "id": 29,
+          "productTypeId": 2,
+          "price": 175,
+          "billingFrequency": "semi-annually"
+      },
+      {
+          "id": 30,
+          "productTypeId": 3,
+          "price": 340,
+          "billingFrequency": "monthly"
+      },
+      {
+          "id": 31,
+          "productTypeId": 4,
+          "price": 325,
+          "billingFrequency": "yearly"
+      },
+      {
+          "id": 32,
+          "productTypeId": 5,
+          "price": 285,
+          "billingFrequency": "quarterly"
+      },
+      {
+          "id": 33,
+          "productTypeId": 6,
+          "price": 75,
+          "billingFrequency": "monthly"
+      },
+      {
+          "id": 34,
+          "productTypeId": 7,
+          "price": 470,
+          "billingFrequency": "semi-annually"
+      },
+      {
+          "id": 35,
+          "productTypeId": 8,
+          "price": 145,
+          "billingFrequency": "yearly"
+      },
+      {
+          "id": 36,
+          "productTypeId": 9,
+          "price": 165,
+          "billingFrequency": "monthly"
+      },
+      {
+          "id": 37,
+          "productTypeId": 1,
+          "price": 215,
+          "billingFrequency": "quarterly"
+      },
+      {
+          "id": 38,
+          "productTypeId": 2,
+          "price": 155,
+          "billingFrequency": "semi-annually"
+      },
+      {
+          "id": 39,
+          "productTypeId": 3,
+          "price": 405,
+          "billingFrequency": "monthly"
+      },
+      {
+          "id": 40,
+          "productTypeId": 4,
+          "price": 200,
+          "billingFrequency": "yearly"
+      },
+      {
+          "id": 41,
+          "productTypeId": 5,
+          "price": 275,
+          "billingFrequency": "quarterly"
+      },
+      {
+          "id": 42,
+          "productTypeId": 6,
+          "price": 95,
+          "billingFrequency": "monthly"
+      },
+      {
+          "id": 43,
+          "productTypeId": 7,
+          "price": 520,
+          "billingFrequency": "semi-annually"
+      },
+      {
+          "id": 44,
+          "productTypeId": 8,
+          "price": 140,
+          "billingFrequency": "yearly"
+      },
+      {
+          "id": 45,
+          "productTypeId": 9,
+          "price": 175,
+          "billingFrequency": "monthly"
+      }
+  ],
+  "productTypes": [
+      {
+          "id": 1,
+          "category": "life insurance"
+      },
+      {
+          "id": 2,
+          "category": "automotive insurance"
+      },
+      {
+          "id": 3,
+          "category": "homeowners insurance"
+      },
+      {
+          "id": 4,
+          "category": "retirement accounts"
+      },
+      {
+          "id": 5,
+          "category": "stocks"
+      },
+      {
+          "id": 6,
+          "category": "money market"
+      },
+      {
+          "id": 7,
+          "category": "education savings plans"
+      },
+      {
+          "id": 8,
+          "category": "annuities"
+      },
+      {
+          "id": 9,
+          "category": "mutual funds"
+      }
+  ],
+  "policies": [
+      {
+          "id": 1,
+          "customerId": 1,
+          "advisorId": 2,
+          "productId": 22,
+          "startDate": "03/15/2022",
+          "term": "term"
+      },
+      {
+          "id": 2,
+          "customerId": 2,
+          "advisorId": 4,
+          "productId": 10,
+          "startDate": "07/22/2021",
+          "term": "indefinite"
+      },
+      {
+          "id": 3,
+          "customerId": 3,
+          "advisorId": 1,
+          "productId": 38,
+          "startDate": "01/08/2023",
+          "term": "term"
+      },
+      {
+          "id": 4,
+          "customerId": 4,
+          "advisorId": 3,
+          "productId": 19,
+          "startDate": "06/30/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 5,
+          "customerId": 5,
+          "advisorId": 5,
+          "productId": 11,
+          "startDate": "05/19/2023",
+          "term": "term"
+      },
+      {
+          "id": 6,
+          "customerId": 6,
+          "advisorId": 2,
+          "productId": 5,
+          "startDate": "09/12/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 7,
+          "customerId": 7,
+          "advisorId": 4,
+          "productId": 28,
+          "startDate": "11/03/2021",
+          "term": "term"
+      },
+      {
+          "id": 8,
+          "customerId": 8,
+          "advisorId": 1,
+          "productId": 14,
+          "startDate": "02/25/2023",
+          "term": "indefinite"
+      },
+      {
+          "id": 9,
+          "customerId": 9,
+          "advisorId": 3,
+          "productId": 34,
+          "startDate": "07/18/2022",
+          "term": "term"
+      },
+      {
+          "id": 10,
+          "customerId": 10,
+          "advisorId": 5,
+          "productId": 26,
+          "startDate": "04/07/2023",
+          "term": "indefinite"
+      },
+      {
+          "id": 11,
+          "customerId": 11,
+          "advisorId": 2,
+          "productId": 42,
+          "startDate": "10/25/2022",
+          "term": "term"
+      },
+      {
+          "id": 12,
+          "customerId": 12,
+          "advisorId": 4,
+          "productId": 17,
+          "startDate": "01/12/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 13,
+          "customerId": 13,
+          "advisorId": 1,
+          "productId": 6,
+          "startDate": "06/01/2023",
+          "term": "term"
+      },
+      {
+          "id": 14,
+          "customerId": 14,
+          "advisorId": 3,
+          "productId": 30,
+          "startDate": "08/23/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 15,
+          "customerId": 15,
+          "advisorId": 5,
+          "productId": 21,
+          "startDate": "03/12/2023",
+          "term": "term"
+      },
+      {
+          "id": 16,
+          "customerId": 16,
+          "advisorId": 2,
+          "productId": 9,
+          "startDate": "04/26/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 17,
+          "customerId": 17,
+          "advisorId": 4,
+          "productId": 37,
+          "startDate": "12/15/2022",
+          "term": "term"
+      },
+      {
+          "id": 18,
+          "customerId": 18,
+          "advisorId": 1,
+          "productId": 16,
+          "startDate": "01/29/2023",
+          "term": "indefinite"
+      },
+      {
+          "id": 19,
+          "customerId": 19,
+          "advisorId": 3,
+          "productId": 40,
+          "startDate": "05/10/2022",
+          "term": "term"
+      },
+      {
+          "id": 20,
+          "customerId": 20,
+          "advisorId": 5,
+          "productId": 25,
+          "startDate": "02/17/2023",
+          "term": "indefinite"
+      },
+      {
+          "id": 21,
+          "customerId": 1,
+          "advisorId": 2,
+          "productId": 12,
+          "startDate": "03/03/2023",
+          "term": "term"
+      },
+      {
+          "id": 22,
+          "customerId": 2,
+          "advisorId": 4,
+          "productId": 3,
+          "startDate": "07/10/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 23,
+          "customerId": 3,
+          "advisorId": 1,
+          "productId": 29,
+          "startDate": "10/28/2021",
+          "term": "term"
+      },
+      {
+          "id": 24,
+          "customerId": 4,
+          "advisorId": 3,
+          "productId": 23,
+          "startDate": "04/21/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 25,
+          "customerId": 5,
+          "advisorId": 5,
+          "productId": 44,
+          "startDate": "03/10/2023",
+          "term": "term"
+      },
+      {
+          "id": 26,
+          "customerId": 6,
+          "advisorId": 2,
+          "productId": 1,
+          "startDate": "08/02/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 27,
+          "customerId": 7,
+          "advisorId": 4,
+          "productId": 39,
+          "startDate": "01/25/2022",
+          "term": "term"
+      },
+      {
+          "id": 28,
+          "customerId": 8,
+          "advisorId": 1,
+          "productId": 15,
+          "startDate": "02/07/2023",
+          "term": "indefinite"
+      },
+      {
+          "id": 29,
+          "customerId": 9,
+          "advisorId": 3,
+          "productId": 35,
+          "startDate": "07/01/2022",
+          "term": "term"
+      },
+      {
+          "id": 30,
+          "customerId": 10,
+          "advisorId": 5,
+          "productId": 27,
+          "startDate": "04/19/2023",
+          "term": "indefinite"
+      },
+      {
+          "id": 31,
+          "customerId": 11,
+          "advisorId": 2,
+          "productId": 41,
+          "startDate": "09/06/2022",
+          "term": "term"
+      },
+      {
+          "id": 32,
+          "customerId": 12,
+          "advisorId": 4,
+          "productId": 18,
+          "startDate": "01/22/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 33,
+          "customerId": 13,
+          "advisorId": 1,
+          "productId": 4,
+          "startDate": "05/26/2023",
+          "term": "term"
+      },
+      {
+          "id": 34,
+          "customerId": 14,
+          "advisorId": 3,
+          "productId": 31,
+          "startDate": "08/16/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 35,
+          "customerId": 15,
+          "advisorId": 5,
+          "productId": 20,
+          "startDate": "03/05/2023",
+          "term": "term"
+      },
+      {
+          "id": 36,
+          "customerId": 16,
+          "advisorId": 2,
+          "productId": 8,
+          "startDate": "05/20/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 37,
+          "customerId": 17,
+          "advisorId": 4,
+          "productId": 35,
+          "startDate": "01/12/2023",
+          "term": "term"
+      },
+      {
+          "id": 38,
+          "customerId": 18,
+          "advisorId": 1,
+          "productId": 13,
+          "startDate": "02/25/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 39,
+          "customerId": 19,
+          "advisorId": 3,
+          "productId": 42,
+          "startDate": "09/18/2022",
+          "term": "term"
+      },
+      {
+          "id": 40,
+          "customerId": 20,
+          "advisorId": 5,
+          "productId": 24,
+          "startDate": "05/08/2023",
+          "term": "indefinite"
+      },
+      {
+          "id": 41,
+          "customerId": 1,
+          "advisorId": 2,
+          "productId": 2,
+          "startDate": "11/01/2022",
+          "term": "term"
+      },
+      {
+          "id": 42,
+          "customerId": 2,
+          "advisorId": 4,
+          "productId": 32,
+          "startDate": "04/14/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 43,
+          "customerId": 3,
+          "advisorId": 1,
+          "productId": 43,
+          "startDate": "02/28/2023",
+          "term": "term"
+      },
+      {
+          "id": 44,
+          "customerId": 4,
+          "advisorId": 3,
+          "productId": 36,
+          "startDate": "08/09/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 45,
+          "customerId": 5,
+          "advisorId": 5,
+          "productId": 33,
+          "startDate": "04/28/2023",
+          "term": "term"
+      },
+      {
+          "id": 46,
+          "customerId": 6,
+          "advisorId": 2,
+          "productId": 1,
+          "startDate": "10/22/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 47,
+          "customerId": 7,
+          "advisorId": 4,
+          "productId": 15,
+          "startDate": "12/17/2021",
+          "term": "term"
+      },
+      {
+          "id": 48,
+          "customerId": 8,
+          "advisorId": 1,
+          "productId": 30,
+          "startDate": "03/10/2023",
+          "term": "indefinite"
+      },
+      {
+          "id": 49,
+          "customerId": 9,
+          "advisorId": 3,
+          "productId": 21,
+          "startDate": "07/04/2022",
+          "term": "term"
+      },
+      {
+          "id": 50,
+          "customerId": 10,
+          "advisorId": 5,
+          "productId": 11,
+          "startDate": "04/22/2023",
+          "term": "indefinite"
+      },
+      {
+          "id": 51,
+          "customerId": 11,
+          "advisorId": 2,
+          "productId": 5,
+          "startDate": "11/08/2022",
+          "term": "term"
+      },
+      {
+          "id": 52,
+          "customerId": 12,
+          "advisorId": 4,
+          "productId": 31,
+          "startDate": "04/01/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 53,
+          "customerId": 13,
+          "advisorId": 1,
+          "productId": 10,
+          "startDate": "05/19/2023",
+          "term": "term"
+      },
+      {
+          "id": 54,
+          "customerId": 14,
+          "advisorId": 3,
+          "productId": 29,
+          "startDate": "09/11/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 55,
+          "customerId": 15,
+          "advisorId": 5,
+          "productId": 19,
+          "startDate": "01/03/2023",
+          "term": "term"
+      },
+      {
+          "id": 56,
+          "customerId": 16,
+          "advisorId": 2,
+          "productId": 44,
+          "startDate": "05/27/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 57,
+          "customerId": 17,
+          "advisorId": 4,
+          "productId": 2,
+          "startDate": "03/15/2023",
+          "term": "term"
+      },
+      {
+          "id": 58,
+          "customerId": 18,
+          "advisorId": 1,
+          "productId": 33,
+          "startDate": "07/10/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 59,
+          "customerId": 19,
+          "advisorId": 3,
+          "productId": 12,
+          "startDate": "11/03/2022",
+          "term": "term"
+      },
+      {
+          "id": 60,
+          "customerId": 20,
+          "advisorId": 5,
+          "productId": 40,
+          "startDate": "02/24/2023",
+          "term": "indefinite"
+      },
+      {
+          "id": 61,
+          "customerId": 1,
+          "advisorId": 2,
+          "productId": 38,
+          "startDate": "06/23/2023",
+          "term": "term"
+      },
+      {
+          "id": 62,
+          "customerId": 2,
+          "advisorId": 4,
+          "productId": 23,
+          "startDate": "10/16/2021",
+          "term": "indefinite"
+      },
+      {
+          "id": 63,
+          "customerId": 3,
+          "advisorId": 1,
+          "productId": 7,
+          "startDate": "02/08/2023",
+          "term": "term"
+      },
+      {
+          "id": 64,
+          "customerId": 4,
+          "advisorId": 3,
+          "productId": 27,
+          "startDate": "05/01/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 65,
+          "customerId": 5,
+          "advisorId": 5,
+          "productId": 43,
+          "startDate": "03/17/2023",
+          "term": "term"
+      },
+      {
+          "id": 66,
+          "customerId": 6,
+          "advisorId": 2,
+          "productId": 9,
+          "startDate": "07/12/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 67,
+          "customerId": 7,
+          "advisorId": 4,
+          "productId": 36,
+          "startDate": "11/05/2021",
+          "term": "term"
+      },
+      {
+          "id": 68,
+          "customerId": 8,
+          "advisorId": 1,
+          "productId": 14,
+          "startDate": "01/29/2023",
+          "term": "indefinite"
+      },
+      {
+          "id": 69,
+          "customerId": 9,
+          "advisorId": 3,
+          "productId": 34,
+          "startDate": "06/22/2022",
+          "term": "term"
+      },
+      {
+          "id": 70,
+          "customerId": 10,
+          "advisorId": 5,
+          "productId": 26,
+          "startDate": "04/10/2023",
+          "term": "indefinite"
+      },
+      {
+          "id": 71,
+          "customerId": 11,
+          "advisorId": 2,
+          "productId": 41,
+          "startDate": "09/28/2022",
+          "term": "term"
+      },
+      {
+          "id": 72,
+          "customerId": 12,
+          "advisorId": 4,
+          "productId": 17,
+          "startDate": "01/03/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 73,
+          "customerId": 13,
+          "advisorId": 1,
+          "productId": 6,
+          "startDate": "05/09/2023",
+          "term": "term"
+      },
+      {
+          "id": 74,
+          "customerId": 14,
+          "advisorId": 3,
+          "productId": 30,
+          "startDate": "08/30/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 75,
+          "customerId": 15,
+          "advisorId": 5,
+          "productId": 18,
+          "startDate": "02/22/2023",
+          "term": "term"
+      },
+      {
+          "id": 76,
+          "customerId": 16,
+          "advisorId": 2,
+          "productId": 3,
+          "startDate": "06/26/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 77,
+          "customerId": 17,
+          "advisorId": 4,
+          "productId": 32,
+          "startDate": "01/19/2023",
+          "term": "term"
+      },
+      {
+          "id": 78,
+          "customerId": 18,
+          "advisorId": 1,
+          "productId": 13,
+          "startDate": "03/04/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 79,
+          "customerId": 19,
+          "advisorId": 3,
+          "productId": 42,
+          "startDate": "09/26/2022",
+          "term": "term"
+      },
+      {
+          "id": 80,
+          "customerId": 20,
+          "advisorId": 5,
+          "productId": 25,
+          "startDate": "05/16/2023",
+          "term": "indefinite"
+      },
+      {
+          "id": 81,
+          "customerId": 1,
+          "advisorId": 2,
+          "productId": 2,
+          "startDate": "11/15/2022",
+          "term": "term"
+      },
+      {
+          "id": 82,
+          "customerId": 2,
+          "advisorId": 4,
+          "productId": 33,
+          "startDate": "04/08/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 83,
+          "customerId": 3,
+          "advisorId": 1,
+          "productId": 44,
+          "startDate": "02/12/2023"
+      },
+      {
+          "id": 84,
+          "customerId": 4,
+          "advisorId": 3,
+          "productId": 14,
+          "startDate": "08/13/2022",
+          "term": "term"
+      },
+      {
+          "id": 85,
+          "customerId": 5,
+          "advisorId": 5,
+          "productId": 35,
+          "startDate": "04/06/2023",
+          "term": "indefinite"
+      },
+      {
+          "id": 86,
+          "customerId": 6,
+          "advisorId": 2,
+          "productId": 21,
+          "startDate": "10/29/2022",
+          "term": "term"
+      },
+      {
+          "id": 87,
+          "customerId": 7,
+          "advisorId": 4,
+          "productId": 6,
+          "startDate": "12/24/2021",
+          "term": "indefinite"
+      },
+      {
+          "id": 88,
+          "customerId": 8,
+          "advisorId": 1,
+          "productId": 31,
+          "startDate": "03/19/2023",
+          "term": "term"
+      },
+      {
+          "id": 89,
+          "customerId": 9,
+          "advisorId": 3,
+          "productId": 20,
+          "startDate": "07/15/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 90,
+          "customerId": 10,
+          "advisorId": 5,
+          "productId": 10,
+          "startDate": "04/29/2023",
+          "term": "term"
+      },
+      {
+          "id": 91,
+          "customerId": 11,
+          "advisorId": 2,
+          "productId": 5,
+          "startDate": "11/15/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 92,
+          "customerId": 12,
+          "advisorId": 4,
+          "productId": 28,
+          "startDate": "04/05/2022",
+          "term": "term"
+      },
+      {
+          "id": 93,
+          "customerId": 13,
+          "advisorId": 1,
+          "productId": 10,
+          "startDate": "05/24/2023",
+          "term": "indefinite"
+      },
+      {
+          "id": 94,
+          "customerId": 14,
+          "advisorId": 3,
+          "productId": 22,
+          "startDate": "09/05/2022",
+          "term": "term"
+      },
+      {
+          "id": 95,
+          "customerId": 15,
+          "advisorId": 5,
+          "productId": 19,
+          "startDate": "01/17/2023",
+          "term": "indefinite"
+      },
+      {
+          "id": 96,
+          "customerId": 16,
+          "advisorId": 2,
+          "productId": 45,
+          "startDate": "05/31/2022",
+          "term": "term"
+      },
+      {
+          "id": 97,
+          "customerId": 17,
+          "advisorId": 4,
+          "productId": 1,
+          "startDate": "03/26/2023",
+          "term": "indefinite"
+      },
+      {
+          "id": 98,
+          "customerId": 18,
+          "advisorId": 1,
+          "productId": 30,
+          "startDate": "07/19/2022",
+          "term": "term"
+      },
+      {
+          "id": 99,
+          "customerId": 19,
+          "advisorId": 3,
+          "productId": 18,
+          "startDate": "11/12/2022",
+          "term": "indefinite"
+      },
+      {
+          "id": 100,
+          "customerId": 20,
+          "advisorId": 5,
+          "productId": 42,
+          "startDate": "02/05/2023",
+          "term": "term"
+      }
+  ]
 }
