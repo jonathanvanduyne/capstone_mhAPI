@@ -378,278 +378,308 @@
       "phoneNumber": "123.555.5234",
       "dateOfBirth": "09/14/1980",
       "beneficiary": "Spouse"
-    }  
+    }
   ],
   "products": [
     {
       "id": 1,
       "productTypeId": 1,
       "price": 235,
-      "billingFrequency": "quarterly"
+      "billingFrequencyId": 4
     },
     {
       "id": 2,
       "productTypeId": 2,
       "price": 125,
-      "billingFrequency": "semi-annually"
+      "billingFrequencyId": 5
     },
     {
       "id": 3,
       "productTypeId": 3,
       "price": 385,
-      "billingFrequency": "monthly"
+      "billingFrequencyId": 3
     },
     {
       "id": 4,
       "productTypeId": 4,
       "price": 415,
-      "billingFrequency": "yearly"
+      "billingFrequencyId": 6
     },
     {
       "id": 5,
       "productTypeId": 5,
       "price": 300,
-      "billingFrequency": "quarterly"
+      "billingFrequencyId": 4
     },
     {
       "id": 6,
       "productTypeId": 6,
       "price": 80,
-      "billingFrequency": "monthly"
+      "billingFrequencyId": 3
     },
     {
       "id": 7,
       "productTypeId": 7,
       "price": 490,
-      "billingFrequency": "semi-annually"
+      "billingFrequencyId": 5
     },
     {
       "id": 8,
       "productTypeId": 8,
       "price": 160,
-      "billingFrequency": "yearly"
+      "billingFrequencyId": 6
     },
     {
       "id": 9,
       "productTypeId": 9,
       "price": 175,
-      "billingFrequency": "monthly"
+      "billingFrequencyId": 3
     },
     {
       "id": 10,
       "productTypeId": 1,
       "price": 275,
-      "billingFrequency": "quarterly"
+      "billingFrequencyId": 4
     },
     {
       "id": 11,
       "productTypeId": 2,
       "price": 450,
-      "billingFrequency": "semi-annually"
+      "billingFrequencyId": 5
     },
     {
       "id": 12,
       "productTypeId": 3,
       "price": 120,
-      "billingFrequency": "monthly"
+      "billingFrequencyId": 3
     },
     {
       "id": 13,
       "productTypeId": 4,
       "price": 390,
-      "billingFrequency": "yearly"
+      "billingFrequencyId": 6
     },
     {
       "id": 14,
       "productTypeId": 5,
       "price": 275,
-      "billingFrequency": "quarterly"
+      "billingFrequencyId": 4
     },
     {
       "id": 15,
       "productTypeId": 6,
       "price": 85,
-      "billingFrequency": "monthly"
+      "billingFrequencyId": 3
     },
     {
       "id": 16,
       "productTypeId": 7,
       "price": 495,
-      "billingFrequency": "semi-annually"
+      "billingFrequencyId": 5
     },
     {
       "id": 17,
       "productTypeId": 8,
       "price": 175,
-      "billingFrequency": "yearly"
+      "billingFrequencyId": 6
     },
     {
       "id": 18,
       "productTypeId": 9,
       "price": 165,
-      "billingFrequency": "monthly"
+      "billingFrequencyId": 3
     },
     {
       "id": 19,
       "productTypeId": 1,
       "price": 255,
-      "billingFrequency": "quarterly"
+      "billingFrequencyId": 4
     },
     {
       "id": 20,
       "productTypeId": 2,
       "price": 135,
-      "billingFrequency": "semi-annually"
+      "billingFrequencyId": 5
     },
     {
       "id": 21,
       "productTypeId": 3,
       "price": 365,
-      "billingFrequency": "monthly"
+      "billingFrequencyId": 3
     },
     {
       "id": 22,
       "productTypeId": 4,
       "price": 465,
-      "billingFrequency": "yearly"
+      "billingFrequencyId": 6
     },
     {
       "id": 23,
       "productTypeId": 5,
       "price": 320,
-      "billingFrequency": "quarterly"
+      "billingFrequencyId": 4
     },
     {
       "id": 24,
       "productTypeId": 6,
       "price": 90,
-      "billingFrequency": "monthly"
+      "billingFrequencyId": 3
     },
     {
       "id": 25,
       "productTypeId": 7,
       "price": 510,
-      "billingFrequency": "semi-annually"
+      "billingFrequencyId": 5
     },
     {
       "id": 26,
       "productTypeId": 8,
       "price": 150,
-      "billingFrequency": "yearly"
+      "billingFrequencyId": 6
     },
     {
       "id": 27,
       "productTypeId": 9,
       "price": 185,
-      "billingFrequency": "monthly"
+      "billingFrequencyId": 3
     },
     {
       "id": 28,
       "productTypeId": 1,
       "price": 295,
-      "billingFrequency": "quarterly"
+      "billingFrequencyId": 4
     },
     {
       "id": 29,
       "productTypeId": 2,
       "price": 175,
-      "billingFrequency": "semi-annually"
+      "billingFrequencyId": 5
     },
     {
       "id": 30,
       "productTypeId": 3,
       "price": 340,
-      "billingFrequency": "monthly"
+      "billingFrequencyId": 3
     },
     {
       "id": 31,
       "productTypeId": 4,
       "price": 325,
-      "billingFrequency": "yearly"
+      "billingFrequencyId": 6
     },
     {
       "id": 32,
       "productTypeId": 5,
       "price": 285,
-      "billingFrequency": "quarterly"
+      "billingFrequencyId": 4
     },
     {
       "id": 33,
       "productTypeId": 6,
       "price": 75,
-      "billingFrequency": "monthly"
+      "billingFrequencyId": 3
     },
     {
       "id": 34,
       "productTypeId": 7,
       "price": 470,
-      "billingFrequency": "semi-annually"
+      "billingFrequencyId": 5
     },
     {
       "id": 35,
       "productTypeId": 8,
       "price": 145,
-      "billingFrequency": "yearly"
+      "billingFrequencyId": 6
     },
     {
       "id": 36,
       "productTypeId": 9,
       "price": 165,
-      "billingFrequency": "monthly"
+      "billingFrequencyId": 3
     },
     {
       "id": 37,
       "productTypeId": 1,
       "price": 215,
-      "billingFrequency": "quarterly"
+      "billingFrequencyId": 4
     },
     {
       "id": 38,
       "productTypeId": 2,
       "price": 155,
-      "billingFrequency": "semi-annually"
+      "billingFrequencyId": 5
     },
     {
       "id": 39,
       "productTypeId": 3,
       "price": 405,
-      "billingFrequency": "monthly"
+      "billingFrequencyId": 3
     },
     {
       "id": 40,
       "productTypeId": 4,
       "price": 200,
-      "billingFrequency": "yearly"
+      "billingFrequencyId": 6
     },
     {
       "id": 41,
       "productTypeId": 5,
       "price": 275,
-      "billingFrequency": "quarterly"
+      "billingFrequencyId": 4
     },
     {
       "id": 42,
       "productTypeId": 6,
       "price": 95,
-      "billingFrequency": "monthly"
+      "billingFrequencyId": 3
     },
     {
       "id": 43,
       "productTypeId": 7,
       "price": 520,
-      "billingFrequency": "semi-annually"
+      "billingFrequencyId": 5
     },
     {
       "id": 44,
       "productTypeId": 8,
       "price": 140,
-      "billingFrequency": "yearly"
+      "billingFrequencyId": 6
     },
     {
       "id": 45,
       "productTypeId": 9,
       "price": 175,
-      "billingFrequency": "monthly"
+      "billingFrequencyId": 3
+    }
+  ],
+  "billingFrequency": [
+    {
+      "id": 1,
+      "frequency": "weekly"
+    },
+    {
+      "id": 2,
+      "frequency": "bi-weekly"
+    },
+    {
+      "id": 3,
+      "frequency": "monthly"
+    },
+    {
+      "id": 4,
+      "frequency": "quarterly"
+    },
+    {
+      "id": 5,
+      "frequency": "semi-annually"
+    },
+    {
+      "id": 6,
+      "frequency": "annually"
+    },
+    {
+      "id": 7,
+      "frequency": "one-time"
     }
   ],
   "productTypes": [
