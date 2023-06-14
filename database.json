@@ -652,7 +652,7 @@
       "billingFrequencyId": 3
     }
   ],
-  "billingFrequency": [
+  "billingFrequencies": [
     {
       "id": 1,
       "frequency": "weekly"
