@@ -205,7 +205,7 @@
       "id": 4,
       "userId": 4,
       "startDate": "2018-02-05",
-      "payRate": 45.80,
+      "payRate": 45.8,
       "officeAddress": "1600 Amphitheatre Pkwy, Mountain View, CA 94043",
       "officePhone": "555.456.7890"
     },
@@ -213,7 +213,7 @@
       "id": 5,
       "userId": 5,
       "startDate": "2017-09-21",
-      "payRate": 57.90,
+      "payRate": 57.9,
       "officeAddress": "1050 Caribbean Way, Miami, FL 33132",
       "officePhone": "555.567.8901"
     }
@@ -224,160 +224,714 @@
       "userId": 6,
       "address": "123 Main St, Los Angeles, CA 90001",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "03/10/1985",
-      "beneficiary": "Spouse"
+      "dateOfBirth": "03/10/1985"
     },
     {
       "id": 2,
       "userId": 7,
       "address": "456 Park Ave, New York, NY 10022",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "08/15/1972",
-      "beneficiary": "Son"
+      "dateOfBirth": "08/15/1972"
     },
     {
       "id": 3,
       "userId": 8,
       "address": "789 Stadium Dr, Chicago, IL 60605",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "06/25/1988",
-      "beneficiary": "Spouse"
+      "dateOfBirth": "06/25/1988"
     },
     {
       "id": 4,
       "userId": 9,
       "address": "321 Court St, Boston, MA 02108",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "12/03/1965",
-      "beneficiary": "Brother"
+      "dateOfBirth": "12/03/1965"
     },
     {
       "id": 5,
       "userId": 10,
       "address": "654 Arena Ave, Dallas, TX 75202",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "09/21/1978",
-      "beneficiary": "Spouse"
+      "dateOfBirth": "09/21/1978"
     },
     {
       "id": 6,
       "userId": 11,
       "address": "987 Field St, San Francisco, CA 94107",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "07/14/1982",
-      "beneficiary": "Daughter"
+      "dateOfBirth": "07/14/1982"
     },
     {
       "id": 7,
       "userId": 12,
       "address": "321 Court St, Boston, MA 02108",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "04/27/1971",
-      "beneficiary": "Spouse"
+      "dateOfBirth": "04/27/1971"
     },
     {
       "id": 8,
       "userId": 13,
       "address": "789 Stadium Dr, Chicago, IL 60605",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "11/09/1964",
-      "beneficiary": "Son"
+      "dateOfBirth": "11/09/1964"
     },
     {
       "id": 9,
       "userId": 14,
       "address": "123 Main St, Los Angeles, CA 90001",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "01/05/1986",
-      "beneficiary": "Spouse"
+      "dateOfBirth": "01/05/1986"
     },
     {
       "id": 10,
       "userId": 15,
       "address": "456 Park Ave, New York, NY 10022",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "10/18/1973",
-      "beneficiary": "Spouse"
+      "dateOfBirth": "10/18/1973"
     },
     {
       "id": 11,
       "userId": 16,
       "address": "789 Stadium Dr, Chicago, IL 60605",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "12/01/1989",
-      "beneficiary": "Brother"
+      "dateOfBirth": "12/01/1989"
     },
     {
       "id": 12,
       "userId": 17,
       "address": "321 Court St, Boston, MA 02108",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "03/25/1967",
-      "beneficiary": "Spouse"
+      "dateOfBirth": "03/25/1967"
     },
     {
       "id": 13,
       "userId": 18,
       "address": "654 Arena Ave, Dallas, TX 75202",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "06/10/1979",
-      "beneficiary": "Daughter"
+      "dateOfBirth": "06/10/1979"
     },
     {
       "id": 14,
       "userId": 19,
       "address": "987 Field St, San Francisco, CA 94107",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "09/05/1983",
-      "beneficiary": "Spouse"
+      "dateOfBirth": "09/05/1983"
     },
     {
       "id": 15,
       "userId": 20,
       "address": "123 Main St, Los Angeles, CA 90001",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "05/23/1970",
-      "beneficiary": "Son"
+      "dateOfBirth": "05/23/1970"
     },
     {
       "id": 16,
       "userId": 21,
       "address": "456 Park Ave, New York, NY 10022",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "08/17/1977",
-      "beneficiary": "Spouse"
+      "dateOfBirth": "08/17/1977"
     },
     {
       "id": 17,
       "userId": 22,
       "address": "789 Stadium Dr, Chicago, IL 60605",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "11/30/1963",
-      "beneficiary": "Son"
+      "dateOfBirth": "11/30/1963"
     },
     {
       "id": 18,
       "userId": 23,
       "address": "321 Court St, Boston, MA 02108",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "02/12/1987",
-      "beneficiary": "Spouse"
+      "dateOfBirth": "02/12/1987"
     },
     {
       "id": 19,
       "userId": 24,
       "address": "654 Arena Ave, Dallas, TX 75202",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "06/28/1974",
-      "beneficiary": "Daughter"
+      "dateOfBirth": "06/28/1974"
     },
     {
       "id": 20,
       "userId": 25,
       "address": "987 Field St, San Francisco, CA 94107",
       "phoneNumber": "123.555.5234",
-      "dateOfBirth": "09/14/1980",
-      "beneficiary": "Spouse"
+      "dateOfBirth": "09/14/1980"
+    }
+  ],
+  "beneficiary": [
+    {
+      "id": 1,
+      "name": "Coach Steve",
+      "address": "123 Shark Attack Ave.",
+      "phoneNumber": "123.555.1234",
+      "dateOfBirth": "01/07/1986",
+      "relationship": "Coach",
+      "typeId": 1
+    },
+    {
+      "id": 2,
+      "name": "Tiana",
+      "address": "Heaven where the angels reside",
+      "phoneNumber": "098.654.3210",
+      "dateOfBirth": "01/07/1986",
+      "relationship": "Coach",
+      "typeId": 2
+    },
+    {
+      "id": 3,
+      "name": "Captain Jack Sparrow",
+      "address": "115 E Pirates Rd, Tortuga, Caribbean",
+      "phoneNumber": "555.123.4567",
+      "dateOfBirth": "06/09/1963",
+      "relationship": "Sailed the seven seas",
+      "typeId": 1
+    },
+    {
+      "id": 4,
+      "name": "Marty McFly",
+      "address": "1640 Riverside Dr, Hill Valley, CA 91506",
+      "phoneNumber": "818.555.1234",
+      "dateOfBirth": "06/12/1968",
+      "relationship": "Time-traveling partner",
+      "typeId": 2
+    },
+    {
+      "id": 5,
+      "name": "Forrest Gump",
+      "address": "1600 Pennsylvania Ave NW, Washington, DC 20500",
+      "phoneNumber": "202.456.1111",
+      "dateOfBirth": "06/06/1964",
+      "relationship": "Ran across America together",
+      "typeId": 1
+    },
+    {
+      "id": 6,
+      "name": "Bridget Jones",
+      "address": "32 Borough High St, London SE1 1TL, United Kingdom",
+      "phoneNumber": "+44 20 1234 5678",
+      "dateOfBirth": "04/09/1970",
+      "relationship": "Shared love for diaries",
+      "typeId": 2
+    },
+    {
+      "id": 7,
+      "name": "John Wick",
+      "address": "42 Continental Blvd, New York, NY 10001",
+      "phoneNumber": "212.555.1234",
+      "dateOfBirth": "11/20/1964",
+      "relationship": "Assassin ally",
+      "typeId": 1
+    },
+    {
+      "id": 8,
+      "name": "Harry Potter",
+      "address": "4 Privet Drive, Little Whinging, Surrey",
+      "phoneNumber": "+44 20 9876 5432",
+      "dateOfBirth": "07/31/1980",
+      "relationship": "Defeated dark wizard together",
+      "typeId": 2
+    },
+    {
+      "id": 9,
+      "name": "Sheldon Cooper",
+      "address": "2311 N Los Robles Ave, Pasadena, CA 91104",
+      "phoneNumber": "626.555.7890",
+      "dateOfBirth": "02/26/1980",
+      "relationship": "Theoretical physics buddy",
+      "typeId": 1
+    },
+    {
+      "id": 10,
+      "name": "Hermione Granger",
+      "address": "12 Grimmauld Place, London",
+      "phoneNumber": "+44 20 7654 3210",
+      "dateOfBirth": "09/19/1979",
+      "relationship": "Fought dark forces together",
+      "typeId": 2
+    },
+    {
+      "id": 11,
+      "name": "Sherlock Holmes",
+      "address": "221B Baker St, London",
+      "phoneNumber": "+44 20 1234 5678",
+      "dateOfBirth": "01/06/1854",
+      "relationship": "Solving mysteries as partners",
+      "typeId": 1
+    },
+    {
+      "id": 12,
+      "name": "Tony Stark",
+      "address": "10880 Malibu Point, Malibu, CA 90265",
+      "phoneNumber": "310.555.6789",
+      "dateOfBirth": "05/29/1970",
+      "relationship": "Saved the world together",
+      "typeId": 2
+    },
+    {
+      "id": 13,
+      "name": "Elle Woods",
+      "address": "415 N Camden Dr, Beverly Hills, CA 90210",
+      "phoneNumber": "310.555.4321",
+      "dateOfBirth": "03/03/1974",
+      "relationship": "Legally blonde bestie",
+      "typeId": 1
+    },
+    {
+      "id": 14,
+      "name": "Borat Sagdiyev",
+      "address": "1600 Pennsylvania Ave NW, Washington, DC 20500",
+      "phoneNumber": "202.456.1111",
+      "dateOfBirth": "04/30/1972",
+      "relationship": "Very nice cultural exchange",
+      "typeId": 2
+    },
+    {
+      "id": 15,
+      "name": "Ace Ventura",
+      "address": "742 Evergreen Terrace, Springfield",
+      "phoneNumber": "555.867.5309",
+      "dateOfBirth": "07/18/1970",
+      "relationship": "Pet detective pal",
+      "typeId": 1
+    },
+    {
+      "id": 16,
+      "name": "Lloyd Christmas",
+      "address": "321 Clark St, Aspen, CO 81611",
+      "phoneNumber": "970.555.1234",
+      "dateOfBirth": "11/17/1963",
+      "relationship": "Road trip buddy",
+      "typeId": 2
+    },
+    {
+      "id": 17,
+      "name": "Dory",
+      "address": "42 Wallaby Way, Sydney",
+      "phoneNumber": "+61 2 1234 5678",
+      "dateOfBirth": "06/02/1980",
+      "relationship": "Unforgettable friend",
+      "typeId": 1
+    },
+    {
+      "id": 18,
+      "name": "Ron Burgundy",
+      "address": "10880 Malibu Point, Malibu, CA 90265",
+      "phoneNumber": "310.555.2468",
+      "dateOfBirth": "07/02/1963",
+      "relationship": "News team member",
+      "typeId": 2
+    },
+    {
+      "id": 19,
+      "name": "Chandler Bing",
+      "address": "90 Bedford St, New York, NY 10014",
+      "phoneNumber": "212.555.7890",
+      "dateOfBirth": "04/08/1968",
+      "relationship": "Sarcastic buddy",
+      "typeId": 1
+    },
+    {
+      "id": 20,
+      "name": "Phoebe Buffay",
+      "address": "90 Bedford St, New York, NY 10014",
+      "phoneNumber": "212.555.9876",
+      "dateOfBirth": "02/16/1965",
+      "relationship": "Smelly cat companion",
+      "typeId": 2
+    },
+    {
+      "id": 21,
+      "name": "Andy Sachs",
+      "address": "17 Runway Ave, New York, NY 10001",
+      "phoneNumber": "212.555.1234",
+      "dateOfBirth": "05/10/1980",
+      "relationship": "Fashion magazine assistant",
+      "typeId": 1
+    },
+    {
+      "id": 22,
+      "name": "Max Fischer",
+      "address": "123 Rushmore Ln, Houston, TX 77001",
+      "phoneNumber": "713.555.6789",
+      "dateOfBirth": "09/18/1985",
+      "relationship": "Eccentric student and friend",
+      "typeId": 2
+    },
+    {
+      "id": 23,
+      "name": "Barry Egan",
+      "address": "456 Pudding Ln, Los Angeles, CA 90001",
+      "phoneNumber": "323.555.4321",
+      "dateOfBirth": "02/28/1973",
+      "relationship": "Quirky love interest",
+      "typeId": 1
+    },
+    {
+      "id": 24,
+      "name": "Seth and Evan",
+      "address": "789 Friendship Rd, Los Angeles, CA 90001",
+      "phoneNumber": "323.555.2468",
+      "dateOfBirth": "06/15/1986",
+      "relationship": "High school best friends",
+      "typeId": 2
+    },
+    {
+      "id": 25,
+      "name": "John Beckwith",
+      "address": "456 Wedding St, San Francisco, CA 94101",
+      "phoneNumber": "415.555.7890",
+      "dateOfBirth": "12/24/1978",
+      "relationship": "Wedding crasher partner",
+      "typeId": 1
+    },
+    {
+      "id": 26,
+      "name": "Mia Thermopolis",
+      "address": "123 Princess Ave, San Francisco, CA 94101",
+      "phoneNumber": "415.555.9876",
+      "dateOfBirth": "08/03/1986",
+      "relationship": "Royal best friend",
+      "typeId": 2
+    },
+    {
+      "id": 27,
+      "name": "Dewey Cox",
+      "address": "789 Walk the Line Rd, Nashville, TN 37201",
+      "phoneNumber": "615.555.1234",
+      "dateOfBirth": "06/02/1940",
+      "relationship": "Rockstar companion",
+      "typeId": 1
+    },
+    {
+      "id": 28,
+      "name": "Schmidt and Jenko",
+      "address": "123 Jump Street, Los Angeles, CA 90001",
+      "phoneNumber": "323.555.6789",
+      "dateOfBirth": "04/20/1985",
+      "relationship": "Undercover cop partners",
+      "typeId": 2
+    },
+    {
+      "id": 29,
+      "name": "Frank the Tank",
+      "address": "456 Old School Ave, Los Angeles, CA 90001",
+      "phoneNumber": "323.555.4321",
+      "dateOfBirth": "11/05/1972",
+      "relationship": "Fraternity brother",
+      "typeId": 1
+    },
+    {
+      "id": 30,
+      "name": "Napoleon Dynamite",
+      "address": "789 Liger Blvd, Preston, ID 83263",
+      "phoneNumber": "208.555.2468",
+      "dateOfBirth": "06/27/1984",
+      "relationship": "Awkward friend",
+      "typeId": 2
+    },
+    {
+      "id": 31,
+      "name": "Greg Focker",
+      "address": "123 Meet the Parents Ln, New York, NY 10001",
+      "phoneNumber": "212.555.7890",
+      "dateOfBirth": "10/05/1970",
+      "relationship": "Family member",
+      "typeId": 1
+    },
+    {
+      "id": 32,
+      "name": "Hancock",
+      "address": "456 Superhero Blvd, Los Angeles, CA 90001",
+      "phoneNumber": "323.555.9876",
+      "dateOfBirth": "07/02/1975",
+      "relationship": "Crime-fighting partner",
+      "typeId": 2
+    },
+    {
+      "id": 33,
+      "name": "Ronnie Barnhardt",
+      "address": "789 Mall Cop Way, Forest Ridge, NM 87101",
+      "phoneNumber": "505.555.1234",
+      "dateOfBirth": "03/16/1976",
+      "relationship": "Security guard friend",
+      "typeId": 1
+    },
+    {
+      "id": 34,
+      "name": "Seth and Evan",
+      "address": "123 Party House, Los Angeles, CA 90001",
+      "phoneNumber": "323.555.6789",
+      "dateOfBirth": "06/15/1986",
+      "relationship": "Partying buddies",
+      "typeId": 2
+    },
+    {
+      "id": 35,
+      "name": "Derek Zoolander",
+      "address": "456 Blue Steel Ln, New York, NY 10001",
+      "phoneNumber": "212.555.4321",
+      "dateOfBirth": "02/02/1975",
+      "relationship": "Male model pal",
+      "typeId": 1
+    },
+    {
+      "id": 36,
+      "name": "Brennan Huff",
+      "address": "789 Stepbrothers St, Los Angeles, CA 90001",
+      "phoneNumber": "323.555.2468",
+      "dateOfBirth": "08/20/1978",
+      "relationship": "Stepbrother",
+      "typeId": 2
+    },
+    {
+      "id": 37,
+      "name": "Mavis Gary",
+      "address": "123 Young Adult Rd, Minneapolis, MN 55401",
+      "phoneNumber": "612.555.7890",
+      "dateOfBirth": "11/10/1979",
+      "relationship": "Novelist friend",
+      "typeId": 1
+    },
+    {
+      "id": 38,
+      "name": "Teddy Sanders",
+      "address": "456 Neighbors Ave, Los Angeles, CA 90001",
+      "phoneNumber": "323.555.9876",
+      "dateOfBirth": "09/25/1980",
+      "relationship": "Neighbor and friend",
+      "typeId": 2
+    },
+    {
+      "id": 39,
+      "name": "Derek and Hansel",
+      "address": "789 Fashion Blvd, Paris, France",
+      "phoneNumber": "+33 1 2345 6789",
+      "dateOfBirth": "03/29/1972",
+      "relationship": "Fashion model partners",
+      "typeId": 1
+    },
+    {
+      "id": 40,
+      "name": "Sid the Sloth",
+      "address": "123 Ice Age St, Snowville, Iceberg",
+      "phoneNumber": "555.000.1234",
+      "dateOfBirth": "12/25/1980",
+      "relationship": "Ice Age companion",
+      "typeId": 2
+    }
+  ],
+  "beneficiaryBridge": [
+    {
+      "id": 1,
+      "customerId": 1,
+      "beneficiaryId": 1
+    },
+    {
+      "id": 2,
+      "customerId": 1,
+      "beneficiaryId": 2
+    },
+    {
+      "id": 3,
+      "customerId": 2,
+      "beneficiaryId": 3
+    },
+    {
+      "id": 4,
+      "customerId": 2,
+      "beneficiaryId": 4
+    },
+    {
+      "id": 5,
+      "customerId": 3,
+      "beneficiaryId": 5
+    },
+    {
+      "id": 6,
+      "customerId": 3,
+      "beneficiaryId": 6
+    },
+    {
+      "id": 7,
+      "customerId": 4,
+      "beneficiaryId": 7
+    },
+    {
+      "id": 8,
+      "customerId": 4,
+      "beneficiaryId": 8
+    },
+    {
+      "id": 9,
+      "customerId": 5,
+      "beneficiaryId": 9
+    },
+    {
+      "id": 10,
+      "customerId": 5,
+      "beneficiaryId": 10
+    },
+    {
+      "id": 11,
+      "customerId": 6,
+      "beneficiaryId": 11
+    },
+    {
+      "id": 12,
+      "customerId": 6,
+      "beneficiaryId": 12
+    },
+    {
+      "id": 13,
+      "customerId": 7,
+      "beneficiaryId": 13
+    },
+    {
+      "id": 14,
+      "customerId": 7,
+      "beneficiaryId": 14
+    },
+    {
+      "id": 15,
+      "customerId": 8,
+      "beneficiaryId": 15
+    },
+    {
+      "id": 16,
+      "customerId": 8,
+      "beneficiaryId": 16
+    },
+    {
+      "id": 17,
+      "customerId": 9,
+      "beneficiaryId": 17
+    },
+    {
+      "id": 18,
+      "customerId": 9,
+      "beneficiaryId": 18
+    },
+    {
+      "id": 19,
+      "customerId": 10,
+      "beneficiaryId": 19
+    },
+    {
+      "id": 20,
+      "customerId": 10,
+      "beneficiaryId": 20
+    },
+    {
+      "id": 21,
+      "customerId": 11,
+      "beneficiaryId": 21
+    },
+    {
+      "id": 22,
+      "customerId": 11,
+      "beneficiaryId": 22
+    },
+    {
+      "id": 23,
+      "customerId": 12,
+      "beneficiaryId": 23
+    },
+    {
+      "id": 24,
+      "customerId": 12,
+      "beneficiaryId": 24
+    },
+    {
+      "id": 25,
+      "customerId": 13,
+      "beneficiaryId": 25
+    },
+    {
+      "id": 26,
+      "customerId": 13,
+      "beneficiaryId": 26
+    },
+    {
+      "id": 27,
+      "customerId": 14,
+      "beneficiaryId": 27
+    },
+    {
+      "id": 28,
+      "customerId": 14,
+      "beneficiaryId": 28
+    },
+    {
+      "id": 29,
+      "customerId": 15,
+      "beneficiaryId": 29
+    },
+    {
+      "id": 30,
+      "customerId": 15,
+      "beneficiaryId": 30
+    },
+    {
+      "id": 31,
+      "customerId": 16,
+      "beneficiaryId": 31
+    },
+    {
+      "id": 32,
+      "customerId": 16,
+      "beneficiaryId": 32
+    },
+    {
+      "id": 33,
+      "customerId": 17,
+      "beneficiaryId": 33
+    },
+    {
+      "id": 34,
+      "customerId": 17,
+      "beneficiaryId": 34
+    },
+    {
+      "id": 35,
+      "customerId": 18,
+      "beneficiaryId": 35
+    },
+    {
+      "id": 36,
+      "customerId": 18,
+      "beneficiaryId": 36
+    },
+    {
+      "id": 37,
+      "customerId": 19,
+      "beneficiaryId": 37
+    },
+    {
+      "id": 38,
+      "customerId": 19,
+      "beneficiaryId": 38
+    },
+    {
+      "id": 39,
+      "customerId": 20,
+      "beneficiaryId": 39
+    },
+    {
+      "id": 40,
+      "customerId": 20,
+      "beneficiaryId": 40
+    }
+  ],
+  "beneficiaryType": [
+    {
+      "id": 1,
+      "category": "Primary"
+    },
+    {
+      "id": 2,
+      "category": "Secondary"
     }
   ],
   "products": [
@@ -736,14 +1290,6 @@
       "productId": 10,
       "startDate": "07/22/2021",
       "term": "indefinite"
-    },
-    {
-      "id": 3,
-      "customerId": 3,
-      "advisorId": 1,
-      "productId": 38,
-      "startDate": "01/08/2023",
-      "term": "term"
     },
     {
       "id": 4,
