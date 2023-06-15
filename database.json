@@ -722,7 +722,7 @@
       "typeId": 2
     }
   ],
-  "beneficiaryBridge": [
+  "beneficiaryBridges": [
     {
       "id": 1,
       "customerId": 1,
@@ -924,7 +924,7 @@
       "beneficiaryId": 40
     }
   ],
-  "beneficiaryType": [
+  "beneficiaryTypes": [
     {
       "id": 1,
       "category": "Primary"
