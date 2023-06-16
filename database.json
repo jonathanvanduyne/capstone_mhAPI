@@ -366,7 +366,7 @@
       "name": "Coach Steve",
       "address": "123 Shark Attack Ave.",
       "phoneNumber": "123.555.1234",
-      "dateOfBirth": "01/07/1986",
+      "dateOfBirth": "1986-01-07",
       "relationship": "Coach",
       "typeId": 1
     },
@@ -375,7 +375,7 @@
       "name": "Tiana",
       "address": "Heaven where the angels reside",
       "phoneNumber": "098.654.3210",
-      "dateOfBirth": "01/07/1986",
+      "dateOfBirth": "1986-01-07",
       "relationship": "Coach",
       "typeId": 2
     },
@@ -384,7 +384,7 @@
       "name": "Captain Jack Sparrow",
       "address": "115 E Pirates Rd, Tortuga, Caribbean",
       "phoneNumber": "555.123.4567",
-      "dateOfBirth": "06/09/1963",
+      "dateOfBirth": "1963-06-09",
       "relationship": "Sailed the seven seas",
       "typeId": 1
     },
@@ -393,7 +393,7 @@
       "name": "Marty McFly",
       "address": "1640 Riverside Dr, Hill Valley, CA 91506",
       "phoneNumber": "818.555.1234",
-      "dateOfBirth": "06/12/1968",
+      "dateOfBirth": "1968-06-12",
       "relationship": "Time-traveling partner",
       "typeId": 2
     },
@@ -402,7 +402,7 @@
       "name": "Forrest Gump",
       "address": "1600 Pennsylvania Ave NW, Washington, DC 20500",
       "phoneNumber": "202.456.1111",
-      "dateOfBirth": "06/06/1964",
+      "dateOfBirth": "1964-06-06",
       "relationship": "Ran across America together",
       "typeId": 1
     },
@@ -411,7 +411,7 @@
       "name": "Bridget Jones",
       "address": "32 Borough High St, London SE1 1TL, United Kingdom",
       "phoneNumber": "+44 20 1234 5678",
-      "dateOfBirth": "04/09/1970",
+      "dateOfBirth": "1970-04-09",
       "relationship": "Shared love for diaries",
       "typeId": 2
     },
@@ -420,7 +420,7 @@
       "name": "John Wick",
       "address": "42 Continental Blvd, New York, NY 10001",
       "phoneNumber": "212.555.1234",
-      "dateOfBirth": "11/20/1964",
+      "dateOfBirth": "1964-11-20",
       "relationship": "Assassin ally",
       "typeId": 1
     },
@@ -429,7 +429,7 @@
       "name": "Harry Potter",
       "address": "4 Privet Drive, Little Whinging, Surrey",
       "phoneNumber": "+44 20 9876 5432",
-      "dateOfBirth": "07/31/1980",
+      "dateOfBirth": "1980-07-31",
       "relationship": "Defeated dark wizard together",
       "typeId": 2
     },
@@ -438,7 +438,7 @@
       "name": "Sheldon Cooper",
       "address": "2311 N Los Robles Ave, Pasadena, CA 91104",
       "phoneNumber": "626.555.7890",
-      "dateOfBirth": "02/26/1980",
+      "dateOfBirth": "1980-02-26",
       "relationship": "Theoretical physics buddy",
       "typeId": 1
     },
@@ -447,7 +447,7 @@
       "name": "Hermione Granger",
       "address": "12 Grimmauld Place, London",
       "phoneNumber": "+44 20 7654 3210",
-      "dateOfBirth": "09/19/1979",
+      "dateOfBirth": "1979-09-19",
       "relationship": "Fought dark forces together",
       "typeId": 2
     },
@@ -456,7 +456,7 @@
       "name": "Sherlock Holmes",
       "address": "221B Baker St, London",
       "phoneNumber": "+44 20 1234 5678",
-      "dateOfBirth": "01/06/1854",
+      "dateOfBirth": "1854-01-06",
       "relationship": "Solving mysteries as partners",
       "typeId": 1
     },
@@ -465,7 +465,7 @@
       "name": "Tony Stark",
       "address": "10880 Malibu Point, Malibu, CA 90265",
       "phoneNumber": "310.555.6789",
-      "dateOfBirth": "05/29/1970",
+      "dateOfBirth": "1970-05-29",
       "relationship": "Saved the world together",
       "typeId": 2
     },
@@ -474,7 +474,7 @@
       "name": "Elle Woods",
       "address": "415 N Camden Dr, Beverly Hills, CA 90210",
       "phoneNumber": "310.555.4321",
-      "dateOfBirth": "03/03/1974",
+      "dateOfBirth": "1974-03-03",
       "relationship": "Legally blonde bestie",
       "typeId": 1
     },
@@ -483,7 +483,7 @@
       "name": "Borat Sagdiyev",
       "address": "1600 Pennsylvania Ave NW, Washington, DC 20500",
       "phoneNumber": "202.456.1111",
-      "dateOfBirth": "04/30/1972",
+      "dateOfBirth": "1972-04-30",
       "relationship": "Very nice cultural exchange",
       "typeId": 2
     },
@@ -492,7 +492,7 @@
       "name": "Ace Ventura",
       "address": "742 Evergreen Terrace, Springfield",
       "phoneNumber": "555.867.5309",
-      "dateOfBirth": "07/18/1970",
+      "dateOfBirth": "1970-07-18",
       "relationship": "Pet detective pal",
       "typeId": 1
     },
@@ -501,7 +501,7 @@
       "name": "Lloyd Christmas",
       "address": "321 Clark St, Aspen, CO 81611",
       "phoneNumber": "970.555.1234",
-      "dateOfBirth": "11/17/1963",
+      "dateOfBirth": "1963-11-17",
       "relationship": "Road trip buddy",
       "typeId": 2
     },
@@ -510,7 +510,7 @@
       "name": "Dory",
       "address": "42 Wallaby Way, Sydney",
       "phoneNumber": "+61 2 1234 5678",
-      "dateOfBirth": "06/02/1980",
+      "dateOfBirth": "1980-06-02",
       "relationship": "Unforgettable friend",
       "typeId": 1
     },
@@ -519,7 +519,7 @@
       "name": "Ron Burgundy",
       "address": "10880 Malibu Point, Malibu, CA 90265",
       "phoneNumber": "310.555.2468",
-      "dateOfBirth": "07/02/1963",
+      "dateOfBirth": "1963-07-02",
       "relationship": "News team member",
       "typeId": 2
     },
@@ -528,7 +528,7 @@
       "name": "Chandler Bing",
       "address": "90 Bedford St, New York, NY 10014",
       "phoneNumber": "212.555.7890",
-      "dateOfBirth": "04/08/1968",
+      "dateOfBirth": "1968-04-08",
       "relationship": "Sarcastic buddy",
       "typeId": 1
     },
@@ -537,7 +537,7 @@
       "name": "Phoebe Buffay",
       "address": "90 Bedford St, New York, NY 10014",
       "phoneNumber": "212.555.9876",
-      "dateOfBirth": "02/16/1965",
+      "dateOfBirth": "1965-02-16",
       "relationship": "Smelly cat companion",
       "typeId": 2
     },
@@ -546,7 +546,7 @@
       "name": "Andy Sachs",
       "address": "17 Runway Ave, New York, NY 10001",
       "phoneNumber": "212.555.1234",
-      "dateOfBirth": "05/10/1980",
+      "dateOfBirth": "1980-05-10",
       "relationship": "Fashion magazine assistant",
       "typeId": 1
     },
@@ -555,7 +555,7 @@
       "name": "Max Fischer",
       "address": "123 Rushmore Ln, Houston, TX 77001",
       "phoneNumber": "713.555.6789",
-      "dateOfBirth": "09/18/1985",
+      "dateOfBirth": "1985-09-18",
       "relationship": "Eccentric student and friend",
       "typeId": 2
     },
@@ -564,7 +564,7 @@
       "name": "Barry Egan",
       "address": "456 Pudding Ln, Los Angeles, CA 90001",
       "phoneNumber": "323.555.4321",
-      "dateOfBirth": "02/28/1973",
+      "dateOfBirth": "1973-02-28",
       "relationship": "Quirky love interest",
       "typeId": 1
     },
@@ -573,7 +573,7 @@
       "name": "Seth and Evan",
       "address": "789 Friendship Rd, Los Angeles, CA 90001",
       "phoneNumber": "323.555.2468",
-      "dateOfBirth": "06/15/1986",
+      "dateOfBirth": "1986-06-15",
       "relationship": "High school best friends",
       "typeId": 2
     },
@@ -582,7 +582,7 @@
       "name": "John Beckwith",
       "address": "456 Wedding St, San Francisco, CA 94101",
       "phoneNumber": "415.555.7890",
-      "dateOfBirth": "12/24/1978",
+      "dateOfBirth": "1978-12-24",
       "relationship": "Wedding crasher partner",
       "typeId": 1
     },
@@ -591,7 +591,7 @@
       "name": "Mia Thermopolis",
       "address": "123 Princess Ave, San Francisco, CA 94101",
       "phoneNumber": "415.555.9876",
-      "dateOfBirth": "08/03/1986",
+      "dateOfBirth": "1986-08-03",
       "relationship": "Royal best friend",
       "typeId": 2
     },
@@ -600,7 +600,7 @@
       "name": "Dewey Cox",
       "address": "789 Walk the Line Rd, Nashville, TN 37201",
       "phoneNumber": "615.555.1234",
-      "dateOfBirth": "06/02/1940",
+      "dateOfBirth": "1940-06-02",
       "relationship": "Rockstar companion",
       "typeId": 1
     },
@@ -609,7 +609,7 @@
       "name": "Schmidt and Jenko",
       "address": "123 Jump Street, Los Angeles, CA 90001",
       "phoneNumber": "323.555.6789",
-      "dateOfBirth": "04/20/1985",
+      "dateOfBirth": "1985-04-20",
       "relationship": "Undercover cop partners",
       "typeId": 2
     },
@@ -618,7 +618,7 @@
       "name": "Frank the Tank",
       "address": "456 Old School Ave, Los Angeles, CA 90001",
       "phoneNumber": "323.555.4321",
-      "dateOfBirth": "11/05/1972",
+      "dateOfBirth": "1972-11-05",
       "relationship": "Fraternity brother",
       "typeId": 1
     },
@@ -627,7 +627,7 @@
       "name": "Napoleon Dynamite",
       "address": "789 Liger Blvd, Preston, ID 83263",
       "phoneNumber": "208.555.2468",
-      "dateOfBirth": "06/27/1984",
+      "dateOfBirth": "1984-06-27",
       "relationship": "Awkward friend",
       "typeId": 2
     },
@@ -636,7 +636,7 @@
       "name": "Greg Focker",
       "address": "123 Meet the Parents Ln, New York, NY 10001",
       "phoneNumber": "212.555.7890",
-      "dateOfBirth": "10/05/1970",
+      "dateOfBirth": "1970-10-05",
       "relationship": "Family member",
       "typeId": 1
     },
@@ -645,7 +645,7 @@
       "name": "Hancock",
       "address": "456 Superhero Blvd, Los Angeles, CA 90001",
       "phoneNumber": "323.555.9876",
-      "dateOfBirth": "07/02/1975",
+      "dateOfBirth": "1975-07-02",
       "relationship": "Crime-fighting partner",
       "typeId": 2
     },
@@ -654,7 +654,7 @@
       "name": "Ronnie Barnhardt",
       "address": "789 Mall Cop Way, Forest Ridge, NM 87101",
       "phoneNumber": "505.555.1234",
-      "dateOfBirth": "03/16/1976",
+      "dateOfBirth": "1976-03-16",
       "relationship": "Security guard friend",
       "typeId": 1
     },
@@ -663,7 +663,7 @@
       "name": "Seth and Evan",
       "address": "123 Party House, Los Angeles, CA 90001",
       "phoneNumber": "323.555.6789",
-      "dateOfBirth": "06/15/1986",
+      "dateOfBirth": "1986-06-15",
       "relationship": "Partying buddies",
       "typeId": 2
     },
@@ -672,7 +672,7 @@
       "name": "Derek Zoolander",
       "address": "456 Blue Steel Ln, New York, NY 10001",
       "phoneNumber": "212.555.4321",
-      "dateOfBirth": "02/02/1975",
+      "dateOfBirth": "1975-02-02",
       "relationship": "Male model pal",
       "typeId": 1
     },
@@ -681,7 +681,7 @@
       "name": "Brennan Huff",
       "address": "789 Stepbrothers St, Los Angeles, CA 90001",
       "phoneNumber": "323.555.2468",
-      "dateOfBirth": "08/20/1978",
+      "dateOfBirth": "1978-08-20",
       "relationship": "Stepbrother",
       "typeId": 2
     },
@@ -690,7 +690,7 @@
       "name": "Mavis Gary",
       "address": "123 Young Adult Rd, Minneapolis, MN 55401",
       "phoneNumber": "612.555.7890",
-      "dateOfBirth": "11/10/1979",
+      "dateOfBirth": "1979-11-10",
       "relationship": "Novelist friend",
       "typeId": 1
     },
@@ -699,7 +699,7 @@
       "name": "Teddy Sanders",
       "address": "456 Neighbors Ave, Los Angeles, CA 90001",
       "phoneNumber": "323.555.9876",
-      "dateOfBirth": "09/25/1980",
+      "dateOfBirth": "1980-09-25",
       "relationship": "Neighbor and friend",
       "typeId": 2
     },
@@ -708,7 +708,7 @@
       "name": "Derek and Hansel",
       "address": "789 Fashion Blvd, Paris, France",
       "phoneNumber": "+33 1 2345 6789",
-      "dateOfBirth": "03/29/1972",
+      "dateOfBirth": "1972-03-29",
       "relationship": "Fashion model partners",
       "typeId": 1
     },
@@ -717,7 +717,7 @@
       "name": "Sid the Sloth",
       "address": "123 Ice Age St, Snowville, Iceberg",
       "phoneNumber": "555.000.1234",
-      "dateOfBirth": "12/25/1980",
+      "dateOfBirth": "1980-12-25",
       "relationship": "Ice Age companion",
       "typeId": 2
     }
