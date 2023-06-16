@@ -1302,6 +1302,14 @@
       "policyDurationId": 2
     },
     {
+      "id": 3,
+      "customerId": 3,
+      "advisorId": 1,
+      "productId": 38,
+      "startDate": "01/08/2023",
+      "policyDurationId": 1
+    },
+    {
       "id": 4,
       "customerId": 4,
       "advisorId": 3,
