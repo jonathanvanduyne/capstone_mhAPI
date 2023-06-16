@@ -934,6 +934,16 @@
       "category": "Secondary"
     }
   ],
+  "policyDurations": [
+    {
+      "id": 1,
+      "category": "term"
+    },
+    {
+      "id": 2,
+      "category": "indefinite"
+    }
+  ],
   "products": [
     {
       "id": 1,
