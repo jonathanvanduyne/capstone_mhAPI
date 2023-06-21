@@ -1281,7 +1281,8 @@
       "advisorId": 2,
       "productId": 22,
       "startDate": "03/15/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 2,
@@ -1289,15 +1290,17 @@
       "advisorId": 4,
       "productId": 10,
       "startDate": "07/22/2021",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
-      "id": 3,
       "customerId": 3,
       "advisorId": 1,
       "productId": 38,
       "startDate": "01/08/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null,
+      "id": 3
     },
     {
       "id": 4,
@@ -1305,7 +1308,8 @@
       "advisorId": 3,
       "productId": 19,
       "startDate": "06/30/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 5,
@@ -1313,7 +1317,8 @@
       "advisorId": 5,
       "productId": 11,
       "startDate": "05/19/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 6,
@@ -1321,7 +1326,8 @@
       "advisorId": 2,
       "productId": 5,
       "startDate": "09/12/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 7,
@@ -1329,15 +1335,17 @@
       "advisorId": 4,
       "productId": 28,
       "startDate": "11/03/2021",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
-      "id": 8,
       "customerId": 8,
       "advisorId": 1,
       "productId": 14,
       "startDate": "02/25/2023",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null,
+      "id": 8
     },
     {
       "id": 9,
@@ -1345,7 +1353,8 @@
       "advisorId": 3,
       "productId": 34,
       "startDate": "07/18/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 10,
@@ -1353,7 +1362,8 @@
       "advisorId": 5,
       "productId": 26,
       "startDate": "04/07/2023",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 11,
@@ -1361,7 +1371,8 @@
       "advisorId": 2,
       "productId": 42,
       "startDate": "10/25/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 12,
@@ -1369,7 +1380,8 @@
       "advisorId": 4,
       "productId": 17,
       "startDate": "01/12/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 13,
@@ -1377,7 +1389,8 @@
       "advisorId": 1,
       "productId": 6,
       "startDate": "06/01/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 14,
@@ -1385,7 +1398,8 @@
       "advisorId": 3,
       "productId": 30,
       "startDate": "08/23/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 15,
@@ -1393,7 +1407,8 @@
       "advisorId": 5,
       "productId": 21,
       "startDate": "03/12/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 16,
@@ -1401,7 +1416,8 @@
       "advisorId": 2,
       "productId": 9,
       "startDate": "04/26/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 17,
@@ -1409,7 +1425,8 @@
       "advisorId": 4,
       "productId": 37,
       "startDate": "12/15/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 18,
@@ -1417,7 +1434,8 @@
       "advisorId": 1,
       "productId": 16,
       "startDate": "01/29/2023",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 19,
@@ -1425,7 +1443,8 @@
       "advisorId": 3,
       "productId": 40,
       "startDate": "05/10/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 20,
@@ -1433,7 +1452,8 @@
       "advisorId": 5,
       "productId": 25,
       "startDate": "02/17/2023",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 21,
@@ -1441,7 +1461,8 @@
       "advisorId": 2,
       "productId": 12,
       "startDate": "03/03/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 22,
@@ -1449,7 +1470,8 @@
       "advisorId": 4,
       "productId": 3,
       "startDate": "07/10/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 23,
@@ -1457,7 +1479,8 @@
       "advisorId": 1,
       "productId": 29,
       "startDate": "10/28/2021",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 24,
@@ -1465,7 +1488,8 @@
       "advisorId": 3,
       "productId": 23,
       "startDate": "04/21/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 25,
@@ -1473,7 +1497,8 @@
       "advisorId": 5,
       "productId": 44,
       "startDate": "03/10/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 26,
@@ -1481,7 +1506,8 @@
       "advisorId": 2,
       "productId": 1,
       "startDate": "08/02/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 27,
@@ -1489,7 +1515,8 @@
       "advisorId": 4,
       "productId": 39,
       "startDate": "01/25/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 28,
@@ -1497,7 +1524,8 @@
       "advisorId": 1,
       "productId": 15,
       "startDate": "02/07/2023",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 29,
@@ -1505,7 +1533,8 @@
       "advisorId": 3,
       "productId": 35,
       "startDate": "07/01/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 30,
@@ -1513,7 +1542,8 @@
       "advisorId": 5,
       "productId": 27,
       "startDate": "04/19/2023",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 31,
@@ -1521,7 +1551,8 @@
       "advisorId": 2,
       "productId": 41,
       "startDate": "09/06/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 32,
@@ -1529,7 +1560,8 @@
       "advisorId": 4,
       "productId": 18,
       "startDate": "01/22/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 33,
@@ -1537,7 +1569,8 @@
       "advisorId": 1,
       "productId": 4,
       "startDate": "05/26/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 34,
@@ -1545,7 +1578,8 @@
       "advisorId": 3,
       "productId": 31,
       "startDate": "08/16/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 35,
@@ -1553,7 +1587,8 @@
       "advisorId": 5,
       "productId": 20,
       "startDate": "03/05/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 36,
@@ -1561,7 +1596,8 @@
       "advisorId": 2,
       "productId": 8,
       "startDate": "05/20/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 37,
@@ -1569,7 +1605,8 @@
       "advisorId": 4,
       "productId": 35,
       "startDate": "01/12/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 38,
@@ -1577,7 +1614,8 @@
       "advisorId": 1,
       "productId": 13,
       "startDate": "02/25/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 39,
@@ -1585,7 +1623,8 @@
       "advisorId": 3,
       "productId": 42,
       "startDate": "09/18/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 40,
@@ -1593,7 +1632,8 @@
       "advisorId": 5,
       "productId": 24,
       "startDate": "05/08/2023",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 41,
@@ -1601,7 +1641,8 @@
       "advisorId": 2,
       "productId": 2,
       "startDate": "11/01/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 42,
@@ -1609,7 +1650,8 @@
       "advisorId": 4,
       "productId": 32,
       "startDate": "04/14/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 43,
@@ -1617,7 +1659,8 @@
       "advisorId": 1,
       "productId": 43,
       "startDate": "02/28/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 44,
@@ -1625,7 +1668,8 @@
       "advisorId": 3,
       "productId": 36,
       "startDate": "08/09/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 45,
@@ -1633,7 +1677,8 @@
       "advisorId": 5,
       "productId": 33,
       "startDate": "04/28/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 46,
@@ -1641,7 +1686,8 @@
       "advisorId": 2,
       "productId": 1,
       "startDate": "10/22/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 47,
@@ -1649,7 +1695,8 @@
       "advisorId": 4,
       "productId": 15,
       "startDate": "12/17/2021",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 48,
@@ -1657,7 +1704,8 @@
       "advisorId": 1,
       "productId": 30,
       "startDate": "03/10/2023",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 49,
@@ -1665,7 +1713,8 @@
       "advisorId": 3,
       "productId": 21,
       "startDate": "07/04/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 50,
@@ -1673,7 +1722,8 @@
       "advisorId": 5,
       "productId": 11,
       "startDate": "04/22/2023",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 51,
@@ -1681,7 +1731,8 @@
       "advisorId": 2,
       "productId": 5,
       "startDate": "11/08/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 52,
@@ -1689,7 +1740,8 @@
       "advisorId": 4,
       "productId": 31,
       "startDate": "04/01/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 53,
@@ -1697,7 +1749,8 @@
       "advisorId": 1,
       "productId": 10,
       "startDate": "05/19/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 54,
@@ -1705,7 +1758,8 @@
       "advisorId": 3,
       "productId": 29,
       "startDate": "09/11/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 55,
@@ -1713,7 +1767,8 @@
       "advisorId": 5,
       "productId": 19,
       "startDate": "01/03/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 56,
@@ -1721,7 +1776,8 @@
       "advisorId": 2,
       "productId": 44,
       "startDate": "05/27/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 57,
@@ -1729,7 +1785,8 @@
       "advisorId": 4,
       "productId": 2,
       "startDate": "03/15/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 58,
@@ -1737,7 +1794,8 @@
       "advisorId": 1,
       "productId": 33,
       "startDate": "07/10/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 59,
@@ -1745,7 +1803,8 @@
       "advisorId": 3,
       "productId": 12,
       "startDate": "11/03/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 60,
@@ -1753,7 +1812,8 @@
       "advisorId": 5,
       "productId": 40,
       "startDate": "02/24/2023",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 61,
@@ -1761,7 +1821,8 @@
       "advisorId": 2,
       "productId": 38,
       "startDate": "06/23/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 62,
@@ -1769,7 +1830,8 @@
       "advisorId": 4,
       "productId": 23,
       "startDate": "10/16/2021",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 63,
@@ -1777,7 +1839,8 @@
       "advisorId": 1,
       "productId": 7,
       "startDate": "02/08/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 64,
@@ -1785,7 +1848,8 @@
       "advisorId": 3,
       "productId": 27,
       "startDate": "05/01/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 65,
@@ -1793,7 +1857,8 @@
       "advisorId": 5,
       "productId": 43,
       "startDate": "03/17/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 66,
@@ -1801,7 +1866,8 @@
       "advisorId": 2,
       "productId": 9,
       "startDate": "07/12/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 67,
@@ -1809,7 +1875,8 @@
       "advisorId": 4,
       "productId": 36,
       "startDate": "11/05/2021",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 68,
@@ -1817,7 +1884,8 @@
       "advisorId": 1,
       "productId": 14,
       "startDate": "01/29/2023",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 69,
@@ -1825,7 +1893,8 @@
       "advisorId": 3,
       "productId": 34,
       "startDate": "06/22/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 70,
@@ -1833,7 +1902,8 @@
       "advisorId": 5,
       "productId": 26,
       "startDate": "04/10/2023",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 71,
@@ -1841,7 +1911,8 @@
       "advisorId": 2,
       "productId": 41,
       "startDate": "09/28/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 72,
@@ -1849,7 +1920,8 @@
       "advisorId": 4,
       "productId": 17,
       "startDate": "01/03/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 73,
@@ -1857,7 +1929,8 @@
       "advisorId": 1,
       "productId": 6,
       "startDate": "05/09/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 74,
@@ -1865,7 +1938,8 @@
       "advisorId": 3,
       "productId": 30,
       "startDate": "08/30/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 75,
@@ -1873,7 +1947,8 @@
       "advisorId": 5,
       "productId": 18,
       "startDate": "02/22/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 76,
@@ -1881,7 +1956,8 @@
       "advisorId": 2,
       "productId": 3,
       "startDate": "06/26/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 77,
@@ -1889,7 +1965,8 @@
       "advisorId": 4,
       "productId": 32,
       "startDate": "01/19/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 78,
@@ -1897,7 +1974,8 @@
       "advisorId": 1,
       "productId": 13,
       "startDate": "03/04/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 79,
@@ -1905,7 +1983,8 @@
       "advisorId": 3,
       "productId": 42,
       "startDate": "09/26/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 80,
@@ -1913,7 +1992,8 @@
       "advisorId": 5,
       "productId": 25,
       "startDate": "05/16/2023",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 81,
@@ -1921,7 +2001,8 @@
       "advisorId": 2,
       "productId": 2,
       "startDate": "11/15/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 82,
@@ -1929,7 +2010,8 @@
       "advisorId": 4,
       "productId": 33,
       "startDate": "04/08/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 83,
@@ -1937,7 +2019,8 @@
       "advisorId": 1,
       "productId": 44,
       "startDate": "02/12/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 84,
@@ -1945,7 +2028,8 @@
       "advisorId": 3,
       "productId": 14,
       "startDate": "08/13/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 85,
@@ -1953,7 +2037,8 @@
       "advisorId": 5,
       "productId": 35,
       "startDate": "04/06/2023",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 86,
@@ -1961,7 +2046,8 @@
       "advisorId": 2,
       "productId": 21,
       "startDate": "10/29/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 87,
@@ -1969,7 +2055,8 @@
       "advisorId": 4,
       "productId": 6,
       "startDate": "12/24/2021",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 88,
@@ -1977,7 +2064,8 @@
       "advisorId": 1,
       "productId": 31,
       "startDate": "03/19/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 89,
@@ -1985,7 +2073,8 @@
       "advisorId": 3,
       "productId": 20,
       "startDate": "07/15/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 90,
@@ -1993,7 +2082,8 @@
       "advisorId": 5,
       "productId": 10,
       "startDate": "04/29/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 91,
@@ -2001,7 +2091,8 @@
       "advisorId": 2,
       "productId": 5,
       "startDate": "11/15/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 92,
@@ -2009,7 +2100,8 @@
       "advisorId": 4,
       "productId": 28,
       "startDate": "04/05/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 93,
@@ -2017,7 +2109,8 @@
       "advisorId": 1,
       "productId": 10,
       "startDate": "05/24/2023",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 94,
@@ -2025,7 +2118,8 @@
       "advisorId": 3,
       "productId": 22,
       "startDate": "09/05/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 95,
@@ -2033,7 +2127,8 @@
       "advisorId": 5,
       "productId": 19,
       "startDate": "01/17/2023",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 96,
@@ -2041,7 +2136,8 @@
       "advisorId": 2,
       "productId": 45,
       "startDate": "05/31/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 97,
@@ -2049,7 +2145,8 @@
       "advisorId": 4,
       "productId": 1,
       "startDate": "03/26/2023",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 98,
@@ -2057,7 +2154,8 @@
       "advisorId": 1,
       "productId": 30,
       "startDate": "07/19/2022",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 99,
@@ -2065,7 +2163,8 @@
       "advisorId": 3,
       "productId": 18,
       "startDate": "11/12/2022",
-      "durationId": 2
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 100,
@@ -2073,7 +2172,8 @@
       "advisorId": 5,
       "productId": 42,
       "startDate": "02/05/2023",
-      "durationId": 1
+      "durationId": 1,
+      "policyURL": null
     }
   ],
   "durations": [
