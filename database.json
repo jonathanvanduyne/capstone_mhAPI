@@ -37,9 +37,9 @@
     },
     {
       "id": 6,
-      "firstName": "Ella",
-      "lastName": "Wilson",
-      "email": "ellawilson@gmail.com",
+      "firstName": "Greg",
+      "lastName": "Korte",
+      "email": "baldandbeautiful@rogain.com",
       "staff": false
     },
     {
@@ -222,7 +222,7 @@
     {
       "id": 1,
       "userId": 6,
-      "address": "123 Main St, Los Angeles, CA 90001",
+      "address": "123 Hair Salon Ave. Nashville, TN 37203",
       "phoneNumber": "123.555.5234",
       "dateOfBirth": "03/10/1985"
     },
@@ -364,19 +364,19 @@
     {
       "id": 1,
       "name": "Coach Steve",
-      "address": "123 Shark Attack Ave.",
+      "address": "943 Shark Attack Rd.",
       "phoneNumber": "123.555.1234",
       "dateOfBirth": "1986-01-07",
-      "relationship": "Coach",
+      "relationship": "Muse, Mentor, Hero, Soon-to-be-ex-primary-beneficiary",
       "typeId": 1
     },
     {
       "id": 2,
       "name": "Tiana",
-      "address": "Heaven where the angels reside",
+      "address": "Heaven - where the angels reside",
       "phoneNumber": "098.654.3210",
-      "dateOfBirth": "1986-01-07",
-      "relationship": "Coach",
+      "dateOfBirth": "1993-01-07",
+      "relationship": "My Angelic Overseer",
       "typeId": 2
     },
     {
@@ -1239,39 +1239,39 @@
   "productTypes": [
     {
       "id": 1,
-      "category": "life insurance"
+      "category": "Life Insurance"
     },
     {
       "id": 2,
-      "category": "automotive insurance"
+      "category": "Automotive iInsurance"
     },
     {
       "id": 3,
-      "category": "homeowners insurance"
+      "category": "Homeowners Insurance"
     },
     {
       "id": 4,
-      "category": "retirement accounts"
+      "category": "Liability Insurance"
     },
     {
       "id": 5,
-      "category": "stocks"
+      "category": "Long-term Care Insurance"
     },
     {
       "id": 6,
-      "category": "money market"
+      "category": "Umbrella Insurance"
     },
     {
       "id": 7,
-      "category": "education savings plans"
+      "category": "Travel Insurance"
     },
     {
       "id": 8,
-      "category": "annuities"
+      "category": "Property Insurance"
     },
     {
       "id": 9,
-      "category": "mutual funds"
+      "category": "Pet Insurance"
     }
   ],
   "policies": [
@@ -1299,7 +1299,7 @@
       "productId": 38,
       "startDate": "01/08/2023",
       "durationId": 1,
-      "policyURL": null,
+      "policyURL": "https://res.cloudinary.com/dbiwrnyu2/image/upload/v1687462112/xalp26sbetiqcexqbmjm.jpg",
       "id": 3
     },
     {
@@ -1639,7 +1639,7 @@
       "id": 41,
       "customerId": 1,
       "advisorId": 2,
-      "productId": 2,
+      "productId": 7,
       "startDate": "11/01/2022",
       "durationId": 1,
       "policyURL": null
@@ -1999,7 +1999,7 @@
       "id": 81,
       "customerId": 1,
       "advisorId": 2,
-      "productId": 2,
+      "productId": 9,
       "startDate": "11/15/2022",
       "durationId": 1,
       "policyURL": null
@@ -2185,5 +2185,496 @@
       "id": 2,
       "span": "indefinite"
     }
-  ]
+  ],
+  "investmentPolicy": [
+    {
+      "id": 1,
+      "customerId": 1,
+      "advisorId": 1,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1994-08-08",
+      "price": 1000,
+      "stockSymbolId": 1
+    },
+    {
+      "id": 2,
+      "customerId": 1,
+      "advisorId": 1,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2002-03-15",
+      "price": 500,
+      "stockSymbolId": 2
+    },
+    {
+      "id": 3,
+      "customerId": 2,
+      "advisorId": 1,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2005-12-27",
+      "price": 2500,
+      "stockSymbolId": 3
+    },
+    {
+      "id": 4,
+      "customerId": 2,
+      "advisorId": 1,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1998-06-10",
+      "price": 7000,
+      "stockSymbolId": 4
+    },
+    {
+      "id": 5,
+      "customerId": 3,
+      "advisorId": 2,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1992-09-21",
+      "price": 1500,
+      "stockSymbolId": 5
+    },
+    {
+      "id": 6,
+      "customerId": 3,
+      "advisorId": 2,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2004-11-02",
+      "price": 300,
+      "stockSymbolId": 6
+    },
+    {
+      "id": 7,
+      "customerId": 4,
+      "advisorId": 2,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2007-07-17",
+      "price": 4000,
+      "stockSymbolId": 7
+    },
+    {
+      "id": 8,
+      "customerId": 4,
+      "advisorId": 2,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1996-04-29",
+      "price": 600,
+      "stockSymbolId": 8
+    },
+    {
+      "id": 9,
+      "customerId": 5,
+      "advisorId": 3,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2001-10-05",
+      "price": 8000,
+      "stockSymbolId": 9
+    },
+    {
+      "id": 10,
+      "customerId": 5,
+      "advisorId": 3,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1997-02-14",
+      "price": 100,
+      "stockSymbolId": 10
+    },
+    {
+      "id": 11,
+      "customerId": 6,
+      "advisorId": 3,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2009-08-30",
+      "price": 3000,
+      "stockSymbolId": 1
+    },
+    {
+      "id": 12,
+      "customerId": 6,
+      "advisorId": 3,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1995-12-07",
+      "price": 900,
+      "stockSymbolId": 2
+    },
+    {
+      "id": 13,
+      "customerId": 7,
+      "advisorId": 4,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1993-07-24",
+      "price": 2000,
+      "stockSymbolId": 3
+    },
+    {
+      "id": 14,
+      "customerId": 7,
+      "advisorId": 4,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2006-02-09",
+      "price": 800,
+      "stockSymbolId": 4
+    },
+    {
+      "id": 15,
+      "customerId": 8,
+      "advisorId": 4,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2003-05-16",
+      "price": 3500,
+      "stockSymbolId": 5
+    },
+    {
+      "id": 16,
+      "customerId": 8,
+      "advisorId": 4,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1999-09-03",
+      "price": 550,
+      "stockSymbolId": 6
+    },
+    {
+      "id": 17,
+      "customerId": 9,
+      "advisorId": 5,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2000-11-18",
+      "price": 6000,
+      "stockSymbolId": 7
+    },
+    {
+      "id": 18,
+      "customerId": 9,
+      "advisorId": 5,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1994-03-02",
+      "price": 200,
+      "stockSymbolId": 8
+    },
+    {
+      "id": 19,
+      "customerId": 10,
+      "advisorId": 5,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2008-06-14",
+      "price": 4500,
+      "stockSymbolId": 9
+    },
+    {
+      "id": 20,
+      "customerId": 10,
+      "advisorId": 5,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1991-02-28",
+      "price": 150,
+      "stockSymbolId": 10
+    },
+    {
+      "id": 21,
+      "customerId": 11,
+      "advisorId": 1,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1992-10-12",
+      "price": 8000,
+      "stockSymbolId": 1
+    },
+    {
+      "id": 22,
+      "customerId": 11,
+      "advisorId": 1,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2004-01-25",
+      "price": 1000,
+      "stockSymbolId": 2
+    },
+    {
+      "id": 23,
+      "customerId": 12,
+      "advisorId": 1,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1996-08-05",
+      "price": 4000,
+      "stockSymbolId": 3
+    },
+    {
+      "id": 24,
+      "customerId": 12,
+      "advisorId": 1,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2003-04-17",
+      "price": 9000,
+      "stockSymbolId": 4
+    },
+    {
+      "id": 25,
+      "customerId": 13,
+      "advisorId": 2,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1997-12-29",
+      "price": 1200,
+      "stockSymbolId": 5
+    },
+    {
+      "id": 26,
+      "customerId": 13,
+      "advisorId": 2,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2009-10-09",
+      "price": 700,
+      "stockSymbolId": 6
+    },
+    {
+      "id": 27,
+      "customerId": 14,
+      "advisorId": 2,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2001-07-03",
+      "price": 5000,
+      "stockSymbolId": 7
+    },
+    {
+      "id": 28,
+      "customerId": 14,
+      "advisorId": 2,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1995-03-16",
+      "price": 800,
+      "stockSymbolId": 8
+    },
+    {
+      "id": 29,
+      "customerId": 15,
+      "advisorId": 3,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2006-10-27",
+      "price": 6500,
+      "stockSymbolId": 9
+    },
+    {
+      "id": 30,
+      "customerId": 15,
+      "advisorId": 3,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1998-02-08",
+      "price": 200,
+      "stockSymbolId": 10
+    },
+    {
+      "id": 31,
+      "customerId": 16,
+      "advisorId": 3,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1999-05-20",
+      "price": 3800,
+      "stockSymbolId": 1
+    },
+    {
+      "id": 32,
+      "customerId": 16,
+      "advisorId": 3,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2008-01-07",
+      "price": 800,
+      "stockSymbolId": 2
+    },
+    {
+      "id": 33,
+      "customerId": 17,
+      "advisorId": 4,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1994-09-13",
+      "price": 1800,
+      "stockSymbolId": 3
+    },
+    {
+      "id": 34,
+      "customerId": 17,
+      "advisorId": 4,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2002-07-28",
+      "price": 900,
+      "stockSymbolId": 4
+    },
+    {
+      "id": 35,
+      "customerId": 18,
+      "advisorId": 4,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2005-04-09",
+      "price": 4000,
+      "stockSymbolId": 5
+    },
+    {
+      "id": 36,
+      "customerId": 18,
+      "advisorId": 4,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1993-10-22",
+      "price": 700,
+      "stockSymbolId": 6
+    },
+    {
+      "id": 37,
+      "customerId": 19,
+      "advisorId": 5,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2007-08-03",
+      "price": 5500,
+      "stockSymbolId": 7
+    },
+    {
+      "id": 38,
+      "customerId": 19,
+      "advisorId": 5,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1996-06-16",
+      "price": 1000,
+      "stockSymbolId": 8
+    },
+    {
+      "id": 39,
+      "customerId": 20,
+      "advisorId": 5,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "2009-03-01",
+      "price": 4200,
+      "stockSymbolId": 9
+    },
+    {
+      "id": 40,
+      "customerId": 20,
+      "advisorId": 5,
+      "investmentId": 1,
+      "durationId": 2,
+      "startDate": "1991-11-14",
+      "price": 120,
+      "stockSymbolId": 10
+    }
+  ],
+  "investment": [
+    {
+      "id": 1,
+      "typeId": 2,
+      "billingFrequencyId": 7
+    }
+  ],
+  "investmentType": [
+    {
+      "id": 1,
+      "category": "mutual fund"
+    },
+    {
+      "id": 2,
+      "category": "stock"
+    },
+    {
+      "id": 3,
+      "category": "bond"
+    },
+    {
+      "id": 4,
+      "category": "ETF"
+    },
+    {
+      "id": 5,
+      "category": "CD"
+    },
+    {
+      "id": 6,
+      "category": "money market"
+    },
+    {
+      "id": 7,
+      "category": "annuity"
+    }
+  ],
+  "stockSymbol": [
+    {
+      "id": 1,
+      "companyName": "Apple",
+      "stockMarketSymbol": "AAPL"
+    },
+    {
+      "id": 2,
+      "companyName": "Microsoft",
+      "stockMarketSymbol": "MSFT"
+    },
+    {
+      "id": 3,
+      "companyName": "Amazon",
+      "stockMarketSymbol": "AMZN"
+    },
+    {
+      "id": 4,
+      "companyName": "Google",
+      "stockMarketSymbol": "GOOGL"
+    },
+    {
+      "id": 5,
+      "companyName": "Netflix",
+      "stockMarketSymbol": "NFLX"
+    },
+    {
+      "id": 6,
+      "companyName": "Berkshire Hathaway",
+      "stockMarketSymbol": "BRK.A"
+    },
+    {
+      "id": 7,
+      "companyName": "Tesla",
+      "stockMarketSymbol": "TSLA"
+    },
+    {
+      "id": 8,
+      "companyName": "IBM",
+      "stockMarketSymbol": "IBM"
+    },
+    {
+      "id": 9,
+      "companyName": "Intel",
+      "stockMarketSymbol": "INTC"
+    },
+    {
+      "id": 10,
+      "companyName": "Coca-Cola",
+      "stockMarketSymbol": "KO"
+    }
+  ]  
 }
