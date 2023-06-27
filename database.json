@@ -37,9 +37,9 @@
     },
     {
       "id": 6,
-      "firstName": "Ella",
-      "lastName": "Wilson",
-      "email": "ellawilson@gmail.com",
+      "firstName": "Greg",
+      "lastName": "Korte",
+      "email": "baldandbeautiful@rogain.com",
       "staff": false
     },
     {
@@ -222,7 +222,7 @@
     {
       "id": 1,
       "userId": 6,
-      "address": "123 Main St, Los Angeles, CA 90001",
+      "address": "123 Hair Salon Ave. Nashville, TN 37203",
       "phoneNumber": "123.555.5234",
       "dateOfBirth": "03/10/1985"
     },
@@ -360,23 +360,23 @@
       "dateOfBirth": "09/14/1980"
     }
   ],
-  "beneficiary": [
+  "beneficiaries": [
     {
       "id": 1,
       "name": "Coach Steve",
-      "address": "123 Shark Attack Ave.",
+      "address": "943 Shark Attack Rd.",
       "phoneNumber": "123.555.1234",
-      "dateOfBirth": "01/07/1986",
-      "relationship": "Coach",
+      "dateOfBirth": "1986-01-07",
+      "relationship": "Muse, Mentor, Hero, Soon-to-be-ex-primary-beneficiary",
       "typeId": 1
     },
     {
       "id": 2,
       "name": "Tiana",
-      "address": "Heaven where the angels reside",
+      "address": "Heaven - where the angels reside",
       "phoneNumber": "098.654.3210",
-      "dateOfBirth": "01/07/1986",
-      "relationship": "Coach",
+      "dateOfBirth": "1993-01-07",
+      "relationship": "My Angelic Overseer",
       "typeId": 2
     },
     {
@@ -384,7 +384,7 @@
       "name": "Captain Jack Sparrow",
       "address": "115 E Pirates Rd, Tortuga, Caribbean",
       "phoneNumber": "555.123.4567",
-      "dateOfBirth": "06/09/1963",
+      "dateOfBirth": "1963-06-09",
       "relationship": "Sailed the seven seas",
       "typeId": 1
     },
@@ -393,7 +393,7 @@
       "name": "Marty McFly",
       "address": "1640 Riverside Dr, Hill Valley, CA 91506",
       "phoneNumber": "818.555.1234",
-      "dateOfBirth": "06/12/1968",
+      "dateOfBirth": "1968-06-12",
       "relationship": "Time-traveling partner",
       "typeId": 2
     },
@@ -402,7 +402,7 @@
       "name": "Forrest Gump",
       "address": "1600 Pennsylvania Ave NW, Washington, DC 20500",
       "phoneNumber": "202.456.1111",
-      "dateOfBirth": "06/06/1964",
+      "dateOfBirth": "1964-06-06",
       "relationship": "Ran across America together",
       "typeId": 1
     },
@@ -411,7 +411,7 @@
       "name": "Bridget Jones",
       "address": "32 Borough High St, London SE1 1TL, United Kingdom",
       "phoneNumber": "+44 20 1234 5678",
-      "dateOfBirth": "04/09/1970",
+      "dateOfBirth": "1970-04-09",
       "relationship": "Shared love for diaries",
       "typeId": 2
     },
@@ -420,7 +420,7 @@
       "name": "John Wick",
       "address": "42 Continental Blvd, New York, NY 10001",
       "phoneNumber": "212.555.1234",
-      "dateOfBirth": "11/20/1964",
+      "dateOfBirth": "1964-11-20",
       "relationship": "Assassin ally",
       "typeId": 1
     },
@@ -429,7 +429,7 @@
       "name": "Harry Potter",
       "address": "4 Privet Drive, Little Whinging, Surrey",
       "phoneNumber": "+44 20 9876 5432",
-      "dateOfBirth": "07/31/1980",
+      "dateOfBirth": "1980-07-31",
       "relationship": "Defeated dark wizard together",
       "typeId": 2
     },
@@ -438,7 +438,7 @@
       "name": "Sheldon Cooper",
       "address": "2311 N Los Robles Ave, Pasadena, CA 91104",
       "phoneNumber": "626.555.7890",
-      "dateOfBirth": "02/26/1980",
+      "dateOfBirth": "1980-02-26",
       "relationship": "Theoretical physics buddy",
       "typeId": 1
     },
@@ -447,7 +447,7 @@
       "name": "Hermione Granger",
       "address": "12 Grimmauld Place, London",
       "phoneNumber": "+44 20 7654 3210",
-      "dateOfBirth": "09/19/1979",
+      "dateOfBirth": "1979-09-19",
       "relationship": "Fought dark forces together",
       "typeId": 2
     },
@@ -456,7 +456,7 @@
       "name": "Sherlock Holmes",
       "address": "221B Baker St, London",
       "phoneNumber": "+44 20 1234 5678",
-      "dateOfBirth": "01/06/1854",
+      "dateOfBirth": "1854-01-06",
       "relationship": "Solving mysteries as partners",
       "typeId": 1
     },
@@ -465,7 +465,7 @@
       "name": "Tony Stark",
       "address": "10880 Malibu Point, Malibu, CA 90265",
       "phoneNumber": "310.555.6789",
-      "dateOfBirth": "05/29/1970",
+      "dateOfBirth": "1970-05-29",
       "relationship": "Saved the world together",
       "typeId": 2
     },
@@ -474,7 +474,7 @@
       "name": "Elle Woods",
       "address": "415 N Camden Dr, Beverly Hills, CA 90210",
       "phoneNumber": "310.555.4321",
-      "dateOfBirth": "03/03/1974",
+      "dateOfBirth": "1974-03-03",
       "relationship": "Legally blonde bestie",
       "typeId": 1
     },
@@ -483,7 +483,7 @@
       "name": "Borat Sagdiyev",
       "address": "1600 Pennsylvania Ave NW, Washington, DC 20500",
       "phoneNumber": "202.456.1111",
-      "dateOfBirth": "04/30/1972",
+      "dateOfBirth": "1972-04-30",
       "relationship": "Very nice cultural exchange",
       "typeId": 2
     },
@@ -492,7 +492,7 @@
       "name": "Ace Ventura",
       "address": "742 Evergreen Terrace, Springfield",
       "phoneNumber": "555.867.5309",
-      "dateOfBirth": "07/18/1970",
+      "dateOfBirth": "1970-07-18",
       "relationship": "Pet detective pal",
       "typeId": 1
     },
@@ -501,7 +501,7 @@
       "name": "Lloyd Christmas",
       "address": "321 Clark St, Aspen, CO 81611",
       "phoneNumber": "970.555.1234",
-      "dateOfBirth": "11/17/1963",
+      "dateOfBirth": "1963-11-17",
       "relationship": "Road trip buddy",
       "typeId": 2
     },
@@ -510,7 +510,7 @@
       "name": "Dory",
       "address": "42 Wallaby Way, Sydney",
       "phoneNumber": "+61 2 1234 5678",
-      "dateOfBirth": "06/02/1980",
+      "dateOfBirth": "1980-06-02",
       "relationship": "Unforgettable friend",
       "typeId": 1
     },
@@ -519,7 +519,7 @@
       "name": "Ron Burgundy",
       "address": "10880 Malibu Point, Malibu, CA 90265",
       "phoneNumber": "310.555.2468",
-      "dateOfBirth": "07/02/1963",
+      "dateOfBirth": "1963-07-02",
       "relationship": "News team member",
       "typeId": 2
     },
@@ -528,7 +528,7 @@
       "name": "Chandler Bing",
       "address": "90 Bedford St, New York, NY 10014",
       "phoneNumber": "212.555.7890",
-      "dateOfBirth": "04/08/1968",
+      "dateOfBirth": "1968-04-08",
       "relationship": "Sarcastic buddy",
       "typeId": 1
     },
@@ -537,7 +537,7 @@
       "name": "Phoebe Buffay",
       "address": "90 Bedford St, New York, NY 10014",
       "phoneNumber": "212.555.9876",
-      "dateOfBirth": "02/16/1965",
+      "dateOfBirth": "1965-02-16",
       "relationship": "Smelly cat companion",
       "typeId": 2
     },
@@ -546,7 +546,7 @@
       "name": "Andy Sachs",
       "address": "17 Runway Ave, New York, NY 10001",
       "phoneNumber": "212.555.1234",
-      "dateOfBirth": "05/10/1980",
+      "dateOfBirth": "1980-05-10",
       "relationship": "Fashion magazine assistant",
       "typeId": 1
     },
@@ -555,7 +555,7 @@
       "name": "Max Fischer",
       "address": "123 Rushmore Ln, Houston, TX 77001",
       "phoneNumber": "713.555.6789",
-      "dateOfBirth": "09/18/1985",
+      "dateOfBirth": "1985-09-18",
       "relationship": "Eccentric student and friend",
       "typeId": 2
     },
@@ -564,7 +564,7 @@
       "name": "Barry Egan",
       "address": "456 Pudding Ln, Los Angeles, CA 90001",
       "phoneNumber": "323.555.4321",
-      "dateOfBirth": "02/28/1973",
+      "dateOfBirth": "1973-02-28",
       "relationship": "Quirky love interest",
       "typeId": 1
     },
@@ -573,7 +573,7 @@
       "name": "Seth and Evan",
       "address": "789 Friendship Rd, Los Angeles, CA 90001",
       "phoneNumber": "323.555.2468",
-      "dateOfBirth": "06/15/1986",
+      "dateOfBirth": "1986-06-15",
       "relationship": "High school best friends",
       "typeId": 2
     },
@@ -582,7 +582,7 @@
       "name": "John Beckwith",
       "address": "456 Wedding St, San Francisco, CA 94101",
       "phoneNumber": "415.555.7890",
-      "dateOfBirth": "12/24/1978",
+      "dateOfBirth": "1978-12-24",
       "relationship": "Wedding crasher partner",
       "typeId": 1
     },
@@ -591,7 +591,7 @@
       "name": "Mia Thermopolis",
       "address": "123 Princess Ave, San Francisco, CA 94101",
       "phoneNumber": "415.555.9876",
-      "dateOfBirth": "08/03/1986",
+      "dateOfBirth": "1986-08-03",
       "relationship": "Royal best friend",
       "typeId": 2
     },
@@ -600,7 +600,7 @@
       "name": "Dewey Cox",
       "address": "789 Walk the Line Rd, Nashville, TN 37201",
       "phoneNumber": "615.555.1234",
-      "dateOfBirth": "06/02/1940",
+      "dateOfBirth": "1940-06-02",
       "relationship": "Rockstar companion",
       "typeId": 1
     },
@@ -609,7 +609,7 @@
       "name": "Schmidt and Jenko",
       "address": "123 Jump Street, Los Angeles, CA 90001",
       "phoneNumber": "323.555.6789",
-      "dateOfBirth": "04/20/1985",
+      "dateOfBirth": "1985-04-20",
       "relationship": "Undercover cop partners",
       "typeId": 2
     },
@@ -618,7 +618,7 @@
       "name": "Frank the Tank",
       "address": "456 Old School Ave, Los Angeles, CA 90001",
       "phoneNumber": "323.555.4321",
-      "dateOfBirth": "11/05/1972",
+      "dateOfBirth": "1972-11-05",
       "relationship": "Fraternity brother",
       "typeId": 1
     },
@@ -627,7 +627,7 @@
       "name": "Napoleon Dynamite",
       "address": "789 Liger Blvd, Preston, ID 83263",
       "phoneNumber": "208.555.2468",
-      "dateOfBirth": "06/27/1984",
+      "dateOfBirth": "1984-06-27",
       "relationship": "Awkward friend",
       "typeId": 2
     },
@@ -636,7 +636,7 @@
       "name": "Greg Focker",
       "address": "123 Meet the Parents Ln, New York, NY 10001",
       "phoneNumber": "212.555.7890",
-      "dateOfBirth": "10/05/1970",
+      "dateOfBirth": "1970-10-05",
       "relationship": "Family member",
       "typeId": 1
     },
@@ -645,7 +645,7 @@
       "name": "Hancock",
       "address": "456 Superhero Blvd, Los Angeles, CA 90001",
       "phoneNumber": "323.555.9876",
-      "dateOfBirth": "07/02/1975",
+      "dateOfBirth": "1975-07-02",
       "relationship": "Crime-fighting partner",
       "typeId": 2
     },
@@ -654,7 +654,7 @@
       "name": "Ronnie Barnhardt",
       "address": "789 Mall Cop Way, Forest Ridge, NM 87101",
       "phoneNumber": "505.555.1234",
-      "dateOfBirth": "03/16/1976",
+      "dateOfBirth": "1976-03-16",
       "relationship": "Security guard friend",
       "typeId": 1
     },
@@ -663,7 +663,7 @@
       "name": "Seth and Evan",
       "address": "123 Party House, Los Angeles, CA 90001",
       "phoneNumber": "323.555.6789",
-      "dateOfBirth": "06/15/1986",
+      "dateOfBirth": "1986-06-15",
       "relationship": "Partying buddies",
       "typeId": 2
     },
@@ -672,7 +672,7 @@
       "name": "Derek Zoolander",
       "address": "456 Blue Steel Ln, New York, NY 10001",
       "phoneNumber": "212.555.4321",
-      "dateOfBirth": "02/02/1975",
+      "dateOfBirth": "1975-02-02",
       "relationship": "Male model pal",
       "typeId": 1
     },
@@ -681,7 +681,7 @@
       "name": "Brennan Huff",
       "address": "789 Stepbrothers St, Los Angeles, CA 90001",
       "phoneNumber": "323.555.2468",
-      "dateOfBirth": "08/20/1978",
+      "dateOfBirth": "1978-08-20",
       "relationship": "Stepbrother",
       "typeId": 2
     },
@@ -690,7 +690,7 @@
       "name": "Mavis Gary",
       "address": "123 Young Adult Rd, Minneapolis, MN 55401",
       "phoneNumber": "612.555.7890",
-      "dateOfBirth": "11/10/1979",
+      "dateOfBirth": "1979-11-10",
       "relationship": "Novelist friend",
       "typeId": 1
     },
@@ -699,7 +699,7 @@
       "name": "Teddy Sanders",
       "address": "456 Neighbors Ave, Los Angeles, CA 90001",
       "phoneNumber": "323.555.9876",
-      "dateOfBirth": "09/25/1980",
+      "dateOfBirth": "1980-09-25",
       "relationship": "Neighbor and friend",
       "typeId": 2
     },
@@ -708,7 +708,7 @@
       "name": "Derek and Hansel",
       "address": "789 Fashion Blvd, Paris, France",
       "phoneNumber": "+33 1 2345 6789",
-      "dateOfBirth": "03/29/1972",
+      "dateOfBirth": "1972-03-29",
       "relationship": "Fashion model partners",
       "typeId": 1
     },
@@ -717,7 +717,7 @@
       "name": "Sid the Sloth",
       "address": "123 Ice Age St, Snowville, Iceberg",
       "phoneNumber": "555.000.1234",
-      "dateOfBirth": "12/25/1980",
+      "dateOfBirth": "1980-12-25",
       "relationship": "Ice Age companion",
       "typeId": 2
     }
@@ -1204,6 +1204,12 @@
       "productTypeId": 9,
       "price": 175,
       "billingFrequencyId": 3
+    },
+    {
+      "productTypeId": 2,
+      "price": 1,
+      "billingFrequencyId": 1,
+      "id": 46
     }
   ],
   "billingFrequencies": [
@@ -1239,39 +1245,39 @@
   "productTypes": [
     {
       "id": 1,
-      "category": "life insurance"
+      "category": "Life Insurance"
     },
     {
       "id": 2,
-      "category": "automotive insurance"
+      "category": "Automotive iInsurance"
     },
     {
       "id": 3,
-      "category": "homeowners insurance"
+      "category": "Homeowners Insurance"
     },
     {
       "id": 4,
-      "category": "retirement accounts"
+      "category": "Liability Insurance"
     },
     {
       "id": 5,
-      "category": "stocks"
+      "category": "Long-term Care Insurance"
     },
     {
       "id": 6,
-      "category": "money market"
+      "category": "Umbrella Insurance"
     },
     {
       "id": 7,
-      "category": "education savings plans"
+      "category": "Travel Insurance"
     },
     {
       "id": 8,
-      "category": "annuities"
+      "category": "Property Insurance"
     },
     {
       "id": 9,
-      "category": "mutual funds"
+      "category": "Pet Insurance"
     }
   ],
   "policies": [
@@ -1281,7 +1287,8 @@
       "advisorId": 2,
       "productId": 22,
       "startDate": "03/15/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 2,
@@ -1289,7 +1296,17 @@
       "advisorId": 4,
       "productId": 10,
       "startDate": "07/22/2021",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
+    },
+    {
+      "customerId": 3,
+      "advisorId": 1,
+      "productId": 38,
+      "startDate": "01/08/2023",
+      "durationId": 1,
+      "policyURL": "https://res.cloudinary.com/dbiwrnyu2/image/upload/v1687462112/xalp26sbetiqcexqbmjm.jpg",
+      "id": 3
     },
     {
       "id": 4,
@@ -1297,7 +1314,8 @@
       "advisorId": 3,
       "productId": 19,
       "startDate": "06/30/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 5,
@@ -1305,7 +1323,8 @@
       "advisorId": 5,
       "productId": 11,
       "startDate": "05/19/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 6,
@@ -1313,7 +1332,8 @@
       "advisorId": 2,
       "productId": 5,
       "startDate": "09/12/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 7,
@@ -1321,15 +1341,17 @@
       "advisorId": 4,
       "productId": 28,
       "startDate": "11/03/2021",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
-      "id": 8,
       "customerId": 8,
       "advisorId": 1,
       "productId": 14,
       "startDate": "02/25/2023",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null,
+      "id": 8
     },
     {
       "id": 9,
@@ -1337,7 +1359,8 @@
       "advisorId": 3,
       "productId": 34,
       "startDate": "07/18/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 10,
@@ -1345,7 +1368,8 @@
       "advisorId": 5,
       "productId": 26,
       "startDate": "04/07/2023",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 11,
@@ -1353,7 +1377,8 @@
       "advisorId": 2,
       "productId": 42,
       "startDate": "10/25/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 12,
@@ -1361,7 +1386,8 @@
       "advisorId": 4,
       "productId": 17,
       "startDate": "01/12/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 13,
@@ -1369,7 +1395,8 @@
       "advisorId": 1,
       "productId": 6,
       "startDate": "06/01/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 14,
@@ -1377,7 +1404,8 @@
       "advisorId": 3,
       "productId": 30,
       "startDate": "08/23/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 15,
@@ -1385,7 +1413,8 @@
       "advisorId": 5,
       "productId": 21,
       "startDate": "03/12/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 16,
@@ -1393,7 +1422,8 @@
       "advisorId": 2,
       "productId": 9,
       "startDate": "04/26/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 17,
@@ -1401,7 +1431,8 @@
       "advisorId": 4,
       "productId": 37,
       "startDate": "12/15/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 18,
@@ -1409,7 +1440,8 @@
       "advisorId": 1,
       "productId": 16,
       "startDate": "01/29/2023",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 19,
@@ -1417,7 +1449,8 @@
       "advisorId": 3,
       "productId": 40,
       "startDate": "05/10/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 20,
@@ -1425,7 +1458,8 @@
       "advisorId": 5,
       "productId": 25,
       "startDate": "02/17/2023",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 21,
@@ -1433,7 +1467,8 @@
       "advisorId": 2,
       "productId": 12,
       "startDate": "03/03/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 22,
@@ -1441,7 +1476,8 @@
       "advisorId": 4,
       "productId": 3,
       "startDate": "07/10/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 23,
@@ -1449,7 +1485,8 @@
       "advisorId": 1,
       "productId": 29,
       "startDate": "10/28/2021",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 24,
@@ -1457,7 +1494,8 @@
       "advisorId": 3,
       "productId": 23,
       "startDate": "04/21/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 25,
@@ -1465,7 +1503,8 @@
       "advisorId": 5,
       "productId": 44,
       "startDate": "03/10/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 26,
@@ -1473,7 +1512,8 @@
       "advisorId": 2,
       "productId": 1,
       "startDate": "08/02/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 27,
@@ -1481,7 +1521,8 @@
       "advisorId": 4,
       "productId": 39,
       "startDate": "01/25/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 28,
@@ -1489,7 +1530,8 @@
       "advisorId": 1,
       "productId": 15,
       "startDate": "02/07/2023",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 29,
@@ -1497,7 +1539,8 @@
       "advisorId": 3,
       "productId": 35,
       "startDate": "07/01/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 30,
@@ -1505,7 +1548,8 @@
       "advisorId": 5,
       "productId": 27,
       "startDate": "04/19/2023",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 31,
@@ -1513,7 +1557,8 @@
       "advisorId": 2,
       "productId": 41,
       "startDate": "09/06/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 32,
@@ -1521,7 +1566,8 @@
       "advisorId": 4,
       "productId": 18,
       "startDate": "01/22/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 33,
@@ -1529,7 +1575,8 @@
       "advisorId": 1,
       "productId": 4,
       "startDate": "05/26/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 34,
@@ -1537,7 +1584,8 @@
       "advisorId": 3,
       "productId": 31,
       "startDate": "08/16/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 35,
@@ -1545,7 +1593,8 @@
       "advisorId": 5,
       "productId": 20,
       "startDate": "03/05/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 36,
@@ -1553,7 +1602,8 @@
       "advisorId": 2,
       "productId": 8,
       "startDate": "05/20/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 37,
@@ -1561,7 +1611,8 @@
       "advisorId": 4,
       "productId": 35,
       "startDate": "01/12/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 38,
@@ -1569,7 +1620,8 @@
       "advisorId": 1,
       "productId": 13,
       "startDate": "02/25/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 39,
@@ -1577,7 +1629,8 @@
       "advisorId": 3,
       "productId": 42,
       "startDate": "09/18/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 40,
@@ -1585,15 +1638,17 @@
       "advisorId": 5,
       "productId": 24,
       "startDate": "05/08/2023",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 41,
       "customerId": 1,
       "advisorId": 2,
-      "productId": 2,
+      "productId": 7,
       "startDate": "11/01/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 42,
@@ -1601,7 +1656,8 @@
       "advisorId": 4,
       "productId": 32,
       "startDate": "04/14/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 43,
@@ -1609,7 +1665,8 @@
       "advisorId": 1,
       "productId": 43,
       "startDate": "02/28/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 44,
@@ -1617,7 +1674,8 @@
       "advisorId": 3,
       "productId": 36,
       "startDate": "08/09/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 45,
@@ -1625,7 +1683,8 @@
       "advisorId": 5,
       "productId": 33,
       "startDate": "04/28/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 46,
@@ -1633,7 +1692,8 @@
       "advisorId": 2,
       "productId": 1,
       "startDate": "10/22/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 47,
@@ -1641,7 +1701,8 @@
       "advisorId": 4,
       "productId": 15,
       "startDate": "12/17/2021",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 48,
@@ -1649,7 +1710,8 @@
       "advisorId": 1,
       "productId": 30,
       "startDate": "03/10/2023",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 49,
@@ -1657,7 +1719,8 @@
       "advisorId": 3,
       "productId": 21,
       "startDate": "07/04/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 50,
@@ -1665,7 +1728,8 @@
       "advisorId": 5,
       "productId": 11,
       "startDate": "04/22/2023",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 51,
@@ -1673,7 +1737,8 @@
       "advisorId": 2,
       "productId": 5,
       "startDate": "11/08/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 52,
@@ -1681,7 +1746,8 @@
       "advisorId": 4,
       "productId": 31,
       "startDate": "04/01/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 53,
@@ -1689,7 +1755,8 @@
       "advisorId": 1,
       "productId": 10,
       "startDate": "05/19/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 54,
@@ -1697,7 +1764,8 @@
       "advisorId": 3,
       "productId": 29,
       "startDate": "09/11/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 55,
@@ -1705,7 +1773,8 @@
       "advisorId": 5,
       "productId": 19,
       "startDate": "01/03/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 56,
@@ -1713,7 +1782,8 @@
       "advisorId": 2,
       "productId": 44,
       "startDate": "05/27/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 57,
@@ -1721,7 +1791,8 @@
       "advisorId": 4,
       "productId": 2,
       "startDate": "03/15/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 58,
@@ -1729,7 +1800,8 @@
       "advisorId": 1,
       "productId": 33,
       "startDate": "07/10/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 59,
@@ -1737,7 +1809,8 @@
       "advisorId": 3,
       "productId": 12,
       "startDate": "11/03/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 60,
@@ -1745,7 +1818,8 @@
       "advisorId": 5,
       "productId": 40,
       "startDate": "02/24/2023",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 61,
@@ -1753,7 +1827,8 @@
       "advisorId": 2,
       "productId": 38,
       "startDate": "06/23/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 62,
@@ -1761,7 +1836,8 @@
       "advisorId": 4,
       "productId": 23,
       "startDate": "10/16/2021",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 63,
@@ -1769,7 +1845,8 @@
       "advisorId": 1,
       "productId": 7,
       "startDate": "02/08/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 64,
@@ -1777,7 +1854,8 @@
       "advisorId": 3,
       "productId": 27,
       "startDate": "05/01/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 65,
@@ -1785,7 +1863,8 @@
       "advisorId": 5,
       "productId": 43,
       "startDate": "03/17/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 66,
@@ -1793,7 +1872,8 @@
       "advisorId": 2,
       "productId": 9,
       "startDate": "07/12/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 67,
@@ -1801,7 +1881,8 @@
       "advisorId": 4,
       "productId": 36,
       "startDate": "11/05/2021",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 68,
@@ -1809,7 +1890,8 @@
       "advisorId": 1,
       "productId": 14,
       "startDate": "01/29/2023",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 69,
@@ -1817,7 +1899,8 @@
       "advisorId": 3,
       "productId": 34,
       "startDate": "06/22/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 70,
@@ -1825,7 +1908,8 @@
       "advisorId": 5,
       "productId": 26,
       "startDate": "04/10/2023",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 71,
@@ -1833,7 +1917,8 @@
       "advisorId": 2,
       "productId": 41,
       "startDate": "09/28/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 72,
@@ -1841,7 +1926,8 @@
       "advisorId": 4,
       "productId": 17,
       "startDate": "01/03/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 73,
@@ -1849,7 +1935,8 @@
       "advisorId": 1,
       "productId": 6,
       "startDate": "05/09/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 74,
@@ -1857,7 +1944,8 @@
       "advisorId": 3,
       "productId": 30,
       "startDate": "08/30/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 75,
@@ -1865,7 +1953,8 @@
       "advisorId": 5,
       "productId": 18,
       "startDate": "02/22/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 76,
@@ -1873,7 +1962,8 @@
       "advisorId": 2,
       "productId": 3,
       "startDate": "06/26/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 77,
@@ -1881,7 +1971,8 @@
       "advisorId": 4,
       "productId": 32,
       "startDate": "01/19/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 78,
@@ -1889,7 +1980,8 @@
       "advisorId": 1,
       "productId": 13,
       "startDate": "03/04/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 79,
@@ -1897,7 +1989,8 @@
       "advisorId": 3,
       "productId": 42,
       "startDate": "09/26/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 80,
@@ -1905,15 +1998,17 @@
       "advisorId": 5,
       "productId": 25,
       "startDate": "05/16/2023",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 81,
       "customerId": 1,
       "advisorId": 2,
-      "productId": 2,
+      "productId": 9,
       "startDate": "11/15/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 82,
@@ -1921,14 +2016,17 @@
       "advisorId": 4,
       "productId": 33,
       "startDate": "04/08/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 83,
       "customerId": 3,
       "advisorId": 1,
       "productId": 44,
-      "startDate": "02/12/2023"
+      "startDate": "02/12/2023",
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 84,
@@ -1936,7 +2034,8 @@
       "advisorId": 3,
       "productId": 14,
       "startDate": "08/13/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 85,
@@ -1944,7 +2043,8 @@
       "advisorId": 5,
       "productId": 35,
       "startDate": "04/06/2023",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 86,
@@ -1952,7 +2052,8 @@
       "advisorId": 2,
       "productId": 21,
       "startDate": "10/29/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 87,
@@ -1960,7 +2061,8 @@
       "advisorId": 4,
       "productId": 6,
       "startDate": "12/24/2021",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 88,
@@ -1968,7 +2070,8 @@
       "advisorId": 1,
       "productId": 31,
       "startDate": "03/19/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 89,
@@ -1976,7 +2079,8 @@
       "advisorId": 3,
       "productId": 20,
       "startDate": "07/15/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 90,
@@ -1984,7 +2088,8 @@
       "advisorId": 5,
       "productId": 10,
       "startDate": "04/29/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 91,
@@ -1992,7 +2097,8 @@
       "advisorId": 2,
       "productId": 5,
       "startDate": "11/15/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 92,
@@ -2000,7 +2106,8 @@
       "advisorId": 4,
       "productId": 28,
       "startDate": "04/05/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 93,
@@ -2008,7 +2115,8 @@
       "advisorId": 1,
       "productId": 10,
       "startDate": "05/24/2023",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 94,
@@ -2016,7 +2124,8 @@
       "advisorId": 3,
       "productId": 22,
       "startDate": "09/05/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 95,
@@ -2024,7 +2133,8 @@
       "advisorId": 5,
       "productId": 19,
       "startDate": "01/17/2023",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 96,
@@ -2032,7 +2142,8 @@
       "advisorId": 2,
       "productId": 45,
       "startDate": "05/31/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 97,
@@ -2040,7 +2151,8 @@
       "advisorId": 4,
       "productId": 1,
       "startDate": "03/26/2023",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 98,
@@ -2048,7 +2160,8 @@
       "advisorId": 1,
       "productId": 30,
       "startDate": "07/19/2022",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
     },
     {
       "id": 99,
@@ -2056,7 +2169,8 @@
       "advisorId": 3,
       "productId": 18,
       "startDate": "11/12/2022",
-      "term": "indefinite"
+      "durationId": 2,
+      "policyURL": null
     },
     {
       "id": 100,
@@ -2064,7 +2178,509 @@
       "advisorId": 5,
       "productId": 42,
       "startDate": "02/05/2023",
-      "term": "term"
+      "durationId": 1,
+      "policyURL": null
+    }
+  ],
+  "durations": [
+    {
+      "id": 1,
+      "span": "term"
+    },
+    {
+      "id": 2,
+      "span": "indefinite"
+    }
+  ],
+  "investmentPolicies": [
+    {
+      "id": 1,
+      "customerId": 1,
+      "advisorId": 1,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1994-08-08",
+      "price": 1000,
+      "stockSymbolId": 1
+    },
+    {
+      "id": 2,
+      "customerId": 1,
+      "advisorId": 1,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2002-03-15",
+      "price": 500,
+      "stockSymbolId": 2
+    },
+    {
+      "id": 3,
+      "customerId": 2,
+      "advisorId": 1,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2005-12-27",
+      "price": 2500,
+      "stockSymbolId": 3
+    },
+    {
+      "id": 4,
+      "customerId": 2,
+      "advisorId": 1,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1998-06-10",
+      "price": 7000,
+      "stockSymbolId": 4
+    },
+    {
+      "id": 5,
+      "customerId": 3,
+      "advisorId": 2,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1992-09-21",
+      "price": 1500,
+      "stockSymbolId": 5
+    },
+    {
+      "id": 6,
+      "customerId": 3,
+      "advisorId": 2,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2004-11-02",
+      "price": 300,
+      "stockSymbolId": 6
+    },
+    {
+      "id": 7,
+      "customerId": 4,
+      "advisorId": 2,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2007-07-17",
+      "price": 4000,
+      "stockSymbolId": 7
+    },
+    {
+      "id": 8,
+      "customerId": 4,
+      "advisorId": 2,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1996-04-29",
+      "price": 600,
+      "stockSymbolId": 8
+    },
+    {
+      "id": 9,
+      "customerId": 5,
+      "advisorId": 3,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2001-10-05",
+      "price": 8000,
+      "stockSymbolId": 9
+    },
+    {
+      "id": 10,
+      "customerId": 5,
+      "advisorId": 3,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1997-02-14",
+      "price": 100,
+      "stockSymbolId": 10
+    },
+    {
+      "id": 11,
+      "customerId": 6,
+      "advisorId": 3,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2009-08-30",
+      "price": 3000,
+      "stockSymbolId": 1
+    },
+    {
+      "id": 12,
+      "customerId": 6,
+      "advisorId": 3,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1995-12-07",
+      "price": 900,
+      "stockSymbolId": 2
+    },
+    {
+      "id": 13,
+      "customerId": 7,
+      "advisorId": 4,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1993-07-24",
+      "price": 2000,
+      "stockSymbolId": 3
+    },
+    {
+      "id": 14,
+      "customerId": 7,
+      "advisorId": 4,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2006-02-09",
+      "price": 800,
+      "stockSymbolId": 4
+    },
+    {
+      "id": 15,
+      "customerId": 8,
+      "advisorId": 4,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2003-05-16",
+      "price": 3500,
+      "stockSymbolId": 5
+    },
+    {
+      "id": 16,
+      "customerId": 8,
+      "advisorId": 4,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1999-09-03",
+      "price": 550,
+      "stockSymbolId": 6
+    },
+    {
+      "id": 17,
+      "customerId": 9,
+      "advisorId": 5,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2000-11-18",
+      "price": 6000,
+      "stockSymbolId": 7
+    },
+    {
+      "id": 18,
+      "customerId": 9,
+      "advisorId": 5,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1994-03-02",
+      "price": 200,
+      "stockSymbolId": 8
+    },
+    {
+      "id": 19,
+      "customerId": 10,
+      "advisorId": 5,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2008-06-14",
+      "price": 4500,
+      "stockSymbolId": 9
+    },
+    {
+      "id": 20,
+      "customerId": 10,
+      "advisorId": 5,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1991-02-28",
+      "price": 150,
+      "stockSymbolId": 10
+    },
+    {
+      "id": 21,
+      "customerId": 11,
+      "advisorId": 1,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1992-10-12",
+      "price": 8000,
+      "stockSymbolId": 1
+    },
+    {
+      "id": 22,
+      "customerId": 11,
+      "advisorId": 1,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2004-01-25",
+      "price": 1000,
+      "stockSymbolId": 2
+    },
+    {
+      "id": 23,
+      "customerId": 12,
+      "advisorId": 1,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1996-08-05",
+      "price": 4000,
+      "stockSymbolId": 3
+    },
+    {
+      "id": 24,
+      "customerId": 12,
+      "advisorId": 1,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2003-04-17",
+      "price": 9000,
+      "stockSymbolId": 4
+    },
+    {
+      "id": 25,
+      "customerId": 13,
+      "advisorId": 2,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1997-12-29",
+      "price": 1200,
+      "stockSymbolId": 5
+    },
+    {
+      "id": 26,
+      "customerId": 13,
+      "advisorId": 2,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2009-10-09",
+      "price": 700,
+      "stockSymbolId": 6
+    },
+    {
+      "id": 27,
+      "customerId": 14,
+      "advisorId": 2,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2001-07-03",
+      "price": 5000,
+      "stockSymbolId": 7
+    },
+    {
+      "id": 28,
+      "customerId": 14,
+      "advisorId": 2,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1995-03-16",
+      "price": 800,
+      "stockSymbolId": 8
+    },
+    {
+      "id": 29,
+      "customerId": 15,
+      "advisorId": 3,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2006-10-27",
+      "price": 6500,
+      "stockSymbolId": 9
+    },
+    {
+      "id": 30,
+      "customerId": 15,
+      "advisorId": 3,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1998-02-08",
+      "price": 200,
+      "stockSymbolId": 10
+    },
+    {
+      "id": 31,
+      "customerId": 16,
+      "advisorId": 3,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1999-05-20",
+      "price": 3800,
+      "stockSymbolId": 1
+    },
+    {
+      "id": 32,
+      "customerId": 16,
+      "advisorId": 3,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2008-01-07",
+      "price": 800,
+      "stockSymbolId": 2
+    },
+    {
+      "id": 33,
+      "customerId": 17,
+      "advisorId": 4,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1994-09-13",
+      "price": 1800,
+      "stockSymbolId": 3
+    },
+    {
+      "id": 34,
+      "customerId": 17,
+      "advisorId": 4,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2002-07-28",
+      "price": 900,
+      "stockSymbolId": 4
+    },
+    {
+      "id": 35,
+      "customerId": 18,
+      "advisorId": 4,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2005-04-09",
+      "price": 4000,
+      "stockSymbolId": 5
+    },
+    {
+      "id": 36,
+      "customerId": 18,
+      "advisorId": 4,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1993-10-22",
+      "price": 700,
+      "stockSymbolId": 6
+    },
+    {
+      "id": 37,
+      "customerId": 19,
+      "advisorId": 5,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2007-08-03",
+      "price": 5500,
+      "stockSymbolId": 7
+    },
+    {
+      "id": 38,
+      "customerId": 19,
+      "advisorId": 5,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1996-06-16",
+      "price": 1000,
+      "stockSymbolId": 8
+    },
+    {
+      "id": 39,
+      "customerId": 20,
+      "advisorId": 5,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "2009-03-01",
+      "price": 4200,
+      "stockSymbolId": 9
+    },
+    {
+      "id": 40,
+      "customerId": 20,
+      "advisorId": 5,
+      "investmentDescriptionId": 1,
+      "durationId": 2,
+      "startDate": "1991-11-14",
+      "price": 120,
+      "stockSymbolId": 10
+    }
+  ],
+  "investmentDescriptions": [
+    {
+      "id": 1,
+      "typeId": 2,
+      "billingFrequencyId": 7
+    }
+  ],
+  "investmentTypes": [
+    {
+      "id": 1,
+      "category": "mutual fund"
+    },
+    {
+      "id": 2,
+      "category": "stock"
+    },
+    {
+      "id": 3,
+      "category": "bond"
+    },
+    {
+      "id": 4,
+      "category": "ETF"
+    },
+    {
+      "id": 5,
+      "category": "CD"
+    },
+    {
+      "id": 6,
+      "category": "money market"
+    },
+    {
+      "id": 7,
+      "category": "annuity"
+    }
+  ],
+  "stockSymbols": [
+    {
+      "id": 1,
+      "companyName": "Apple",
+      "stockMarketSymbol": "AAPL"
+    },
+    {
+      "id": 2,
+      "companyName": "Microsoft",
+      "stockMarketSymbol": "MSFT"
+    },
+    {
+      "id": 3,
+      "companyName": "Amazon",
+      "stockMarketSymbol": "AMZN"
+    },
+    {
+      "id": 4,
+      "companyName": "Google",
+      "stockMarketSymbol": "GOOGL"
+    },
+    {
+      "id": 5,
+      "companyName": "Netflix",
+      "stockMarketSymbol": "NFLX"
+    },
+    {
+      "id": 6,
+      "companyName": "Berkshire Hathaway",
+      "stockMarketSymbol": "BRK.A"
+    },
+    {
+      "id": 7,
+      "companyName": "Tesla",
+      "stockMarketSymbol": "TSLA"
+    },
+    {
+      "id": 8,
+      "companyName": "IBM",
+      "stockMarketSymbol": "IBM"
+    },
+    {
+      "id": 9,
+      "companyName": "Intel",
+      "stockMarketSymbol": "INTC"
+    },
+    {
+      "id": 10,
+      "companyName": "Coca-Cola",
+      "stockMarketSymbol": "KO"
     }
   ]
 }
