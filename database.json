@@ -2194,14 +2194,15 @@
   ],
   "investmentPolicies": [
     {
-      "id": 1,
       "customerId": 1,
       "advisorId": 1,
       "investmentDescriptionId": 1,
       "durationId": 2,
       "startDate": "1994-08-08",
       "price": 1000,
-      "stockSymbolId": 1
+      "stockSymbolId": 1,
+      "documentationURL": "https://res.cloudinary.com/dbiwrnyu2/image/upload/v1687899556/l3tptp2keh4tdkp1rxzs.jpg",
+      "id": 1
     },
     {
       "id": 2,
@@ -2211,7 +2212,8 @@
       "durationId": 2,
       "startDate": "2002-03-15",
       "price": 500,
-      "stockSymbolId": 2
+      "stockSymbolId": 2,
+      "documentationURL": null
     },
     {
       "id": 3,
@@ -2221,7 +2223,8 @@
       "durationId": 2,
       "startDate": "2005-12-27",
       "price": 2500,
-      "stockSymbolId": 3
+      "stockSymbolId": 3,
+      "documentationURL": null
     },
     {
       "id": 4,
@@ -2231,7 +2234,8 @@
       "durationId": 2,
       "startDate": "1998-06-10",
       "price": 7000,
-      "stockSymbolId": 4
+      "stockSymbolId": 4,
+      "documentationURL": null
     },
     {
       "id": 5,
@@ -2241,7 +2245,8 @@
       "durationId": 2,
       "startDate": "1992-09-21",
       "price": 1500,
-      "stockSymbolId": 5
+      "stockSymbolId": 5,
+      "documentationURL": null
     },
     {
       "id": 6,
@@ -2251,7 +2256,8 @@
       "durationId": 2,
       "startDate": "2004-11-02",
       "price": 300,
-      "stockSymbolId": 6
+      "stockSymbolId": 6,
+      "documentationURL": null
     },
     {
       "id": 7,
@@ -2261,7 +2267,8 @@
       "durationId": 2,
       "startDate": "2007-07-17",
       "price": 4000,
-      "stockSymbolId": 7
+      "stockSymbolId": 7,
+      "documentationURL": null
     },
     {
       "id": 8,
@@ -2271,7 +2278,8 @@
       "durationId": 2,
       "startDate": "1996-04-29",
       "price": 600,
-      "stockSymbolId": 8
+      "stockSymbolId": 8,
+      "documentationURL": null
     },
     {
       "id": 9,
@@ -2281,7 +2289,8 @@
       "durationId": 2,
       "startDate": "2001-10-05",
       "price": 8000,
-      "stockSymbolId": 9
+      "stockSymbolId": 9,
+      "documentationURL": null
     },
     {
       "id": 10,
@@ -2291,7 +2300,8 @@
       "durationId": 2,
       "startDate": "1997-02-14",
       "price": 100,
-      "stockSymbolId": 10
+      "stockSymbolId": 10,
+      "documentationURL": null
     },
     {
       "id": 11,
@@ -2301,7 +2311,8 @@
       "durationId": 2,
       "startDate": "2009-08-30",
       "price": 3000,
-      "stockSymbolId": 1
+      "stockSymbolId": 1,
+      "documentationURL": null
     },
     {
       "id": 12,
@@ -2311,7 +2322,8 @@
       "durationId": 2,
       "startDate": "1995-12-07",
       "price": 900,
-      "stockSymbolId": 2
+      "stockSymbolId": 2,
+      "documentationURL": null
     },
     {
       "id": 13,
@@ -2321,7 +2333,8 @@
       "durationId": 2,
       "startDate": "1993-07-24",
       "price": 2000,
-      "stockSymbolId": 3
+      "stockSymbolId": 3,
+      "documentationURL": null
     },
     {
       "id": 14,
@@ -2331,7 +2344,8 @@
       "durationId": 2,
       "startDate": "2006-02-09",
       "price": 800,
-      "stockSymbolId": 4
+      "stockSymbolId": 4,
+      "documentationURL": null
     },
     {
       "id": 15,
@@ -2341,7 +2355,8 @@
       "durationId": 2,
       "startDate": "2003-05-16",
       "price": 3500,
-      "stockSymbolId": 5
+      "stockSymbolId": 5,
+      "documentationURL": null
     },
     {
       "id": 16,
@@ -2351,7 +2366,8 @@
       "durationId": 2,
       "startDate": "1999-09-03",
       "price": 550,
-      "stockSymbolId": 6
+      "stockSymbolId": 6,
+      "documentationURL": null
     },
     {
       "id": 17,
@@ -2361,7 +2377,8 @@
       "durationId": 2,
       "startDate": "2000-11-18",
       "price": 6000,
-      "stockSymbolId": 7
+      "stockSymbolId": 7,
+      "documentationURL": null
     },
     {
       "id": 18,
@@ -2371,7 +2388,8 @@
       "durationId": 2,
       "startDate": "1994-03-02",
       "price": 200,
-      "stockSymbolId": 8
+      "stockSymbolId": 8,
+      "documentationURL": null
     },
     {
       "id": 19,
@@ -2381,7 +2399,8 @@
       "durationId": 2,
       "startDate": "2008-06-14",
       "price": 4500,
-      "stockSymbolId": 9
+      "stockSymbolId": 9,
+      "documentationURL": null
     },
     {
       "id": 20,
@@ -2391,7 +2410,8 @@
       "durationId": 2,
       "startDate": "1991-02-28",
       "price": 150,
-      "stockSymbolId": 10
+      "stockSymbolId": 10,
+      "documentationURL": null
     },
     {
       "id": 21,
@@ -2401,7 +2421,8 @@
       "durationId": 2,
       "startDate": "1992-10-12",
       "price": 8000,
-      "stockSymbolId": 1
+      "stockSymbolId": 1,
+      "documentationURL": null
     },
     {
       "id": 22,
@@ -2411,7 +2432,8 @@
       "durationId": 2,
       "startDate": "2004-01-25",
       "price": 1000,
-      "stockSymbolId": 2
+      "stockSymbolId": 2,
+      "documentationURL": null
     },
     {
       "id": 23,
@@ -2421,7 +2443,8 @@
       "durationId": 2,
       "startDate": "1996-08-05",
       "price": 4000,
-      "stockSymbolId": 3
+      "stockSymbolId": 3,
+      "documentationURL": null
     },
     {
       "id": 24,
@@ -2431,7 +2454,8 @@
       "durationId": 2,
       "startDate": "2003-04-17",
       "price": 9000,
-      "stockSymbolId": 4
+      "stockSymbolId": 4,
+      "documentationURL": null
     },
     {
       "id": 25,
@@ -2441,7 +2465,8 @@
       "durationId": 2,
       "startDate": "1997-12-29",
       "price": 1200,
-      "stockSymbolId": 5
+      "stockSymbolId": 5,
+      "documentationURL": null
     },
     {
       "id": 26,
@@ -2451,7 +2476,8 @@
       "durationId": 2,
       "startDate": "2009-10-09",
       "price": 700,
-      "stockSymbolId": 6
+      "stockSymbolId": 6,
+      "documentationURL": null
     },
     {
       "id": 27,
@@ -2461,7 +2487,8 @@
       "durationId": 2,
       "startDate": "2001-07-03",
       "price": 5000,
-      "stockSymbolId": 7
+      "stockSymbolId": 7,
+      "documentationURL": null
     },
     {
       "id": 28,
@@ -2471,7 +2498,8 @@
       "durationId": 2,
       "startDate": "1995-03-16",
       "price": 800,
-      "stockSymbolId": 8
+      "stockSymbolId": 8,
+      "documentationURL": null
     },
     {
       "id": 29,
@@ -2481,7 +2509,8 @@
       "durationId": 2,
       "startDate": "2006-10-27",
       "price": 6500,
-      "stockSymbolId": 9
+      "stockSymbolId": 9,
+      "documentationURL": null
     },
     {
       "id": 30,
@@ -2491,7 +2520,8 @@
       "durationId": 2,
       "startDate": "1998-02-08",
       "price": 200,
-      "stockSymbolId": 10
+      "stockSymbolId": 10,
+      "documentationURL": null
     },
     {
       "id": 31,
@@ -2501,7 +2531,8 @@
       "durationId": 2,
       "startDate": "1999-05-20",
       "price": 3800,
-      "stockSymbolId": 1
+      "stockSymbolId": 1,
+      "documentationURL": null
     },
     {
       "id": 32,
@@ -2511,7 +2542,8 @@
       "durationId": 2,
       "startDate": "2008-01-07",
       "price": 800,
-      "stockSymbolId": 2
+      "stockSymbolId": 2,
+      "documentationURL": null
     },
     {
       "id": 33,
@@ -2521,7 +2553,8 @@
       "durationId": 2,
       "startDate": "1994-09-13",
       "price": 1800,
-      "stockSymbolId": 3
+      "stockSymbolId": 3,
+      "documentationURL": null
     },
     {
       "id": 34,
@@ -2531,7 +2564,8 @@
       "durationId": 2,
       "startDate": "2002-07-28",
       "price": 900,
-      "stockSymbolId": 4
+      "stockSymbolId": 4,
+      "documentationURL": null
     },
     {
       "id": 35,
@@ -2541,7 +2575,8 @@
       "durationId": 2,
       "startDate": "2005-04-09",
       "price": 4000,
-      "stockSymbolId": 5
+      "stockSymbolId": 5,
+      "documentationURL": null
     },
     {
       "id": 36,
@@ -2551,7 +2586,8 @@
       "durationId": 2,
       "startDate": "1993-10-22",
       "price": 700,
-      "stockSymbolId": 6
+      "stockSymbolId": 6,
+      "documentationURL": null
     },
     {
       "id": 37,
@@ -2561,7 +2597,8 @@
       "durationId": 2,
       "startDate": "2007-08-03",
       "price": 5500,
-      "stockSymbolId": 7
+      "stockSymbolId": 7,
+      "documentationURL": null
     },
     {
       "id": 38,
@@ -2571,7 +2608,8 @@
       "durationId": 2,
       "startDate": "1996-06-16",
       "price": 1000,
-      "stockSymbolId": 8
+      "stockSymbolId": 8,
+      "documentationURL": null
     },
     {
       "id": 39,
@@ -2581,7 +2619,8 @@
       "durationId": 2,
       "startDate": "2009-03-01",
       "price": 4200,
-      "stockSymbolId": 9
+      "stockSymbolId": 9,
+      "documentationURL": null
     },
     {
       "id": 40,
@@ -2591,7 +2630,8 @@
       "durationId": 2,
       "startDate": "1991-11-14",
       "price": 120,
-      "stockSymbolId": 10
+      "stockSymbolId": 10,
+      "documentationURL": null
     }
   ],
   "investmentDescriptions": [
