@@ -2637,7 +2637,7 @@
   "investmentDescriptions": [
     {
       "id": 1,
-      "typeId": 2,
+      "investmentTypeId": 2,
       "billingFrequencyId": 7
     }
   ],
