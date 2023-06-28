@@ -2232,7 +2232,7 @@
       "advisorId": 1,
       "investmentDescriptionId": 1,
       "durationId": 2,
-      "startDate": "1998-06-10",
+      "startDate": "2005-06-10",
       "price": 7000,
       "stockSymbolId": 4,
       "documentationURL": null
@@ -2430,7 +2430,7 @@
       "advisorId": 1,
       "investmentDescriptionId": 1,
       "durationId": 2,
-      "startDate": "2004-01-25",
+      "startDate": "2004-01-28",
       "price": 1000,
       "stockSymbolId": 2,
       "documentationURL": null
@@ -2441,7 +2441,7 @@
       "advisorId": 1,
       "investmentDescriptionId": 1,
       "durationId": 2,
-      "startDate": "1996-08-05",
+      "startDate": "1997-05-15",
       "price": 4000,
       "stockSymbolId": 3,
       "documentationURL": null
@@ -2452,7 +2452,7 @@
       "advisorId": 1,
       "investmentDescriptionId": 1,
       "durationId": 2,
-      "startDate": "2003-04-17",
+      "startDate": "2005-04-14",
       "price": 9000,
       "stockSymbolId": 4,
       "documentationURL": null
@@ -2562,7 +2562,7 @@
       "advisorId": 4,
       "investmentDescriptionId": 1,
       "durationId": 2,
-      "startDate": "2002-07-28",
+      "startDate": "2005-07-28",
       "price": 900,
       "stockSymbolId": 4,
       "documentationURL": null
