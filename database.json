@@ -4,7 +4,7 @@
       "id": 1,
       "firstName": "Daniel",
       "lastName": "Myers",
-      "email": "danielmyers@sexyinthecity.com",
+      "email": "danielmyers@onlyReadsPictureBooks.com",
       "staff": true
     },
     {
@@ -183,7 +183,14 @@
       "startDate": "01/01/2013",
       "payRate": 60,
       "officeAddress": "66 Perry Street, Manhattan",
-      "officePhone": "123.555.4357"
+      "officePhone": "123.555.4357",
+      "user": {
+        "id": 1,
+        "firstName": "Daniel",
+        "lastName": "Myers",
+        "email": "danielmyers@onlyReadsPictureBooks.com",
+        "staff": true
+      }
     },
     {
       "id": 2,
